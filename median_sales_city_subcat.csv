@@ -1,0 +1,2965 @@
+City,Sub-Category,Median Sales
+Henderson,Bookcases,261.96
+Henderson,Chairs,853.93
+Los Angeles,Labels,14.62
+Fort Lauderdale,Tables,644.3
+Fort Lauderdale,Storage,84.78
+Los Angeles,Furnishings,44.67
+Los Angeles,Art,14.7
+Los Angeles,Phones,223.98
+Los Angeles,Binders,22.33
+Los Angeles,Appliances,105.96
+Los Angeles,Tables,408.98
+Concord,Paper,62.0
+Seattle,Binders,30.58
+Fort Worth,Appliances,24.59
+Fort Worth,Binders,4.98
+Madison,Storage,665.88
+West Jordan,Storage,55.5
+San Francisco,Art,12.25
+San Francisco,Phones,201.58
+San Francisco,Binders,24.61
+Fremont,Art,19.46
+Fremont,Appliances,60.34
+Philadelphia,Chairs,380.06
+Orem,Tables,1044.63
+Los Angeles,Accessories,159.76
+Philadelphia,Bookcases,232.68
+Philadelphia,Binders,8.0
+Philadelphia,Furnishings,51.97
+Philadelphia,Envelopes,31.18
+Philadelphia,Art,13.25
+Houston,Paper,29.47
+Richardson,Phones,1097.54
+Richardson,Furnishings,190.92
+Houston,Envelopes,74.35
+Houston,Bookcases,573.2
+Houston,Chairs,317.74
+Houston,Phones,177.58
+Naperville,Phones,147.17
+Los Angeles,Storage,158.9
+Melbourne,Storage,95.62
+Eagan,Accessories,45.98
+Eagan,Binders,17.46
+Westland,Storage,139.27
+Dover,Accessories,159.98
+Dover,Phones,20.89
+New Albany,Binders,38.22
+New Albany,Labels,75.18
+New Albany,Furnishings,6.16
+New Albany,Chairs,89.99
+New York City,Fasteners,8.72
+New York City,Phones,209.97
+Troy,Storage,119.79
+Troy,Paper,23.33
+Troy,Chairs,319.41
+Troy,Accessories,59.98
+Troy,Binders,12.58
+Troy,Art,30.9
+Los Angeles,Paper,32.4
+Chicago,Chairs,359.77
+Gilbert,Art,1113.02
+Gilbert,Phones,250.77
+Springfield,Paper,26.35
+New York City,Binders,28.75
+Jackson,Paper,19.44
+Memphis,Chairs,561.58
+Memphis,Furnishings,26.15
+Memphis,Storage,99.92
+Houston,Binders,6.46
+Houston,Furnishings,16.49
+Houston,Storage,63.29
+Decatur,Appliances,208.16
+Decatur,Binders,19.14
+San Francisco,Storage,86.75
+Durham,Envelopes,200.98
+Chicago,Storage,102.48
+Columbia,Chairs,389.7
+Rochester,Accessories,87.38
+Rochester,Labels,13.86
+Minneapolis,Paper,26.38
+Minneapolis,Furnishings,53.34
+Minneapolis,Binders,38.47
+Portland,Binders,4.16
+New York City,Furnishings,57.82
+Saint Paul,Appliances,77.88
+Chicago,Paper,24.43
+Chicago,Accessories,81.58
+Chicago,Binders,8.13
+Rochester,Paper,23.92
+Aurora,Accessories,119.8
+Aurora,Furnishings,60.29
+Aurora,Binders,14.25
+Charlotte,Accessories,255.68
+Charlotte,Phones,247.17
+Charlotte,Art,11.47
+Orland Park,Accessories,339.96
+Urbandale,Art,75.96
+Urbandale,Binders,27.24
+Columbus,Fasteners,10.46
+Columbus,Envelopes,43.16
+Columbus,Paper,35.15
+Seattle,Tables,882.19
+Bristol,Binders,23.09
+Wilmington,Furnishings,47.04
+Wilmington,Binders,30.84
+Wilmington,Storage,152.06
+Wilmington,Envelopes,65.79
+Wilmington,Phones,307.98
+Bloomington,Tables,617.7
+Phoenix,Binders,9.35
+Phoenix,Storage,47.86
+Los Angeles,Chairs,241.42
+Columbus,Phones,235.15
+Roseville,Paper,35.44
+Roseville,Art,9.75
+Roseville,Fasteners,3.25
+Roseville,Binders,41.54
+Roseville,Supplies,35.12
+Roseville,Furnishings,29.22
+San Francisco,Envelopes,23.16
+San Francisco,Paper,35.28
+Independence,Appliances,839.43
+Pasadena,Storage,109.25
+Newark,Furnishings,51.97
+Franklin,Phones,143.95
+Franklin,Chairs,392.94
+Franklin,Binders,106.05
+Scottsdale,Appliances,157.92
+Scottsdale,Phones,237.59
+San Jose,Paper,105.52
+San Jose,Storage,187.69
+Seattle,Art,15.92
+Seattle,Chairs,347.92
+Edmond,Labels,14.62
+Edmond,Phones,944.93
+Philadelphia,Accessories,52.97
+Carlsbad,Envelopes,28.4
+San Antonio,Art,10.27
+San Antonio,Machines,399.54
+San Antonio,Storage,71.54
+San Antonio,Chairs,127.87
+San Antonio,Appliances,177.98
+San Antonio,Phones,352.29
+Chicago,Appliances,48.79
+Chicago,Labels,11.52
+Houston,Appliances,27.38
+Newark,Chairs,396.8
+Newark,Supplies,15.88
+New York City,Art,16.78
+Decatur,Storage,50.35
+Decatur,Accessories,444.35
+Monroe,Phones,149.95
+Monroe,Accessories,53.7
+Fairfield,Binders,25.8
+Grand Prairie,Storage,37.22
+Grand Prairie,Paper,23.62
+New York City,Bookcases,353.57
+New York City,Paper,30.31
+Redlands,Envelopes,14.28
+Hamilton,Art,6.73
+Westfield,Storage,46.26
+Philadelphia,Paper,16.45
+Akron,Paper,18.84
+Denver,Tables,218.75
+Denver,Appliances,18.72
+Dallas,Appliances,26.79
+Franklin,Furnishings,87.18
+Whittier,Phones,444.77
+Saginaw,Storage,87.95
+Saginaw,Phones,131.98
+Saginaw,Binders,15.92
+Saginaw,Fasteners,52.29
+Dallas,Accessories,50.12
+Medina,Labels,23.68
+Medina,Bookcases,452.45
+Medina,Phones,62.98
+Medina,Machines,1188.0
+Medina,Accessories,89.58
+Dublin,Fasteners,5.58
+Dublin,Paper,25.22
+Dublin,Binders,11.79
+Dublin,Furnishings,72.7
+Dublin,Machines,479.99
+Dublin,Art,25.54
+Detroit,Art,15.92
+Detroit,Tables,447.84
+Detroit,Storage,194.94
+Charlotte,Binders,27.64
+Tampa,Tables,427.24
+Tampa,Binders,23.75
+Tampa,Furnishings,54.53
+Tampa,Accessories,314.82
+Santa Clara,Paper,15.56
+Chicago,Furnishings,17.5
+Chicago,Phones,180.96
+Chicago,Tables,196.09
+Chicago,Art,8.43
+Lakeville,Chairs,1078.87
+Lakeville,Storage,166.72
+Lakeville,Paper,47.18
+Lakeville,Appliances,798.51
+San Francisco,Chairs,386.36
+San Diego,Paper,48.24
+San Diego,Accessories,148.32
+New York City,Storage,89.26
+New York City,Envelopes,29.34
+New York City,Accessories,100.66
+Pasadena,Appliances,15.2
+Houston,Machines,797.99
+Brentwood,Accessories,69.94
+Chapel Hill,Art,14.02
+Morristown,Fasteners,7.56
+Cincinnati,Storage,161.38
+Cincinnati,Envelopes,57.58
+San Francisco,Accessories,109.97
+San Francisco,Furnishings,36.12
+Inglewood,Paper,41.47
+Inglewood,Art,5.98
+Philadelphia,Storage,77.24
+Philadelphia,Labels,16.52
+Portland,Paper,31.1
+Portland,Accessories,259.87
+Tamarac,Binders,128.75
+Tamarac,Appliances,194.53
+Tamarac,Supplies,961.48
+Columbus,Labels,16.81
+Columbus,Accessories,142.49
+Columbus,Bookcases,194.71
+Colorado Springs,Furnishings,136.64
+Colorado Springs,Chairs,778.06
+Colorado Springs,Binders,21.87
+Colorado Springs,Fasteners,27.55
+Belleville,Paper,44.66
+Belleville,Storage,1082.48
+Belleville,Furnishings,77.6
+Belleville,Binders,14.28
+Taylor,Art,9.84
+Lakewood,Binders,22.12
+Lakewood,Art,16.9
+Arlington,Art,8.93
+Arvada,Furnishings,15.18
+Arvada,Chairs,466.77
+Arvada,Labels,6.26
+Hackensack,Furnishings,105.83
+Saint Petersburg,Phones,179.67
+Saint Petersburg,Paper,42.24
+New York City,Chairs,383.89
+New York City,Machines,3102.23
+Long Beach,Fasteners,7.36
+Hesperia,Binders,251.52
+Hesperia,Accessories,99.99
+Murfreesboro,Furnishings,34.67
+Philadelphia,Phones,264.25
+Los Angeles,Copiers,959.98
+San Francisco,Tables,300.9
+Layton,Fasteners,4.96
+Philadelphia,Fasteners,10.12
+Austin,Storage,152.69
+Lowell,Art,10.26
+Lowell,Paper,65.86
+Charlotte,Paper,135.23
+Columbus,Appliances,121.83
+New York City,Labels,19.8
+Manchester,Binders,23.2
+Manchester,Supplies,7.36
+Manchester,Storage,91.17
+Manchester,Bookcases,1043.92
+Harlingen,Paper,15.55
+Harlingen,Storage,53.42
+Tucson,Binders,8.16
+Tucson,Accessories,239.95
+Tucson,Art,47.77
+Quincy,Paper,53.05
+Franklin,Tables,533.03
+Taylor,Accessories,41.9
+Pembroke Pines,Tables,375.46
+Pembroke Pines,Accessories,110.4
+Philadelphia,Machines,341.99
+Cincinnati,Art,10.61
+Des Moines,Phones,246.38
+Des Moines,Copiers,1399.97
+Peoria,Binders,6.85
+Las Vegas,Binders,55.82
+Warwick,Storage,49.96
+Warwick,Paper,62.46
+Jackson,Supplies,70.12
+Houston,Accessories,93.0
+Miami,Paper,31.06
+Wilmington,Art,13.12
+New York City,Appliances,188.66
+San Francisco,Copiers,1199.98
+San Francisco,Labels,21.93
+San Francisco,Bookcases,444.5
+Seattle,Paper,30.52
+Huntington Beach,Art,49.65
+Richmond,Paper,19.74
+Los Angeles,Envelopes,21.34
+Louisville,Accessories,147.46
+Lawrence,Furnishings,27.85
+Lawrence,Storage,46.26
+Jackson,Chairs,256.12
+Canton,Furnishings,28.4
+Canton,Binders,287.92
+New Rochelle,Machines,69.99
+Gastonia,Binders,189.59
+Gastonia,Accessories,350.35
+Gastonia,Storage,4.77
+Lowell,Storage,1020.07
+Jacksonville,Binders,13.24
+Jacksonville,Accessories,167.94
+Chicago,Machines,791.44
+Detroit,Furnishings,53.36
+Detroit,Paper,18.63
+Detroit,Chairs,487.96
+Detroit,Labels,66.25
+Columbus,Furnishings,39.92
+Auburn,Art,17.97
+Auburn,Storage,161.94
+Auburn,Phones,35.12
+Akron,Tables,284.36
+Akron,Storage,443.22
+Norman,Accessories,675.67
+Concord,Chairs,246.74
+Decatur,Chairs,395.82
+Decatur,Envelopes,8.93
+Seattle,Appliances,65.34
+Seattle,Accessories,132.52
+Phoenix,Furnishings,46.87
+Phoenix,Tables,597.38
+Phoenix,Supplies,185.38
+Phoenix,Appliances,121.79
+Park Ridge,Furnishings,254.74
+Amarillo,Bookcases,205.33
+Lindenhurst,Paper,55.48
+Troy,Furnishings,40.2
+Los Angeles,Bookcases,475.08
+Huntsville,Phones,239.98
+Huntsville,Accessories,63.98
+Huntsville,Art,44.96
+Rochester,Storage,142.04
+Rochester,Envelopes,11.07
+Memphis,Tables,280.25
+Fayetteville,Envelopes,105.42
+Costa Mesa,Binders,119.62
+Costa Mesa,Furnishings,69.3
+Costa Mesa,Chairs,241.57
+Parker,Binders,14.95
+Parker,Chairs,801.57
+Parker,Paper,32.79
+Atlanta,Art,10.59
+Atlanta,Storage,698.43
+Atlanta,Binders,34.54
+Gladstone,Furnishings,126.3
+Gladstone,Accessories,38.04
+Newark,Art,23.78
+Great Falls,Copiers,2999.95
+Great Falls,Storage,87.08
+Great Falls,Paper,11.96
+Lawrence,Fasteners,19.74
+Lakeland,Chairs,903.94
+Lakeland,Furnishings,32.86
+Philadelphia,Supplies,37.75
+Montgomery,Phones,1187.45
+Montgomery,Binders,22.75
+Mesa,Storage,196.32
+Henderson,Appliances,158.19
+Green Bay,Accessories,468.9
+Tucson,Phones,201.58
+Springfield,Storage,254.06
+Fort Worth,Accessories,61.05
+Fort Worth,Phones,100.79
+Fort Worth,Furnishings,34.05
+Chicago,Supplies,22.24
+Jacksonville,Furnishings,35.04
+Houston,Fasteners,15.81
+Anaheim,Storage,740.07
+Tampa,Appliances,18.35
+Seattle,Fasteners,9.95
+Seattle,Labels,13.61
+Marysville,Art,8.82
+Long Beach,Paper,53.08
+Long Beach,Supplies,25.71
+Los Angeles,Supplies,25.76
+Denver,Phones,124.61
+Denver,Binders,6.78
+Richmond,Chairs,201.96
+Richmond,Labels,19.13
+Salem,Phones,68.73
+Salem,Paper,11.65
+Salem,Binders,15.88
+Laredo,Art,12.61
+Laredo,Accessories,47.98
+San Diego,Appliances,76.12
+San Diego,Copiers,1199.97
+San Diego,Phones,217.58
+San Diego,Furnishings,41.47
+Tampa,Storage,283.52
+Tampa,Paper,88.72
+Dallas,Phones,349.56
+Dallas,Labels,4.93
+Grove City,Phones,119.94
+Grove City,Binders,3.65
+Dearborn,Chairs,301.96
+Dearborn,Appliances,555.21
+Dearborn,Storage,523.48
+Dearborn,Art,161.82
+Aurora,Storage,194.82
+Aurora,Phones,125.94
+Miami,Accessories,135.44
+Miami,Labels,11.7
+Warner Robins,Chairs,392.94
+Aurora,Appliances,70.97
+Vallejo,Furnishings,1049.2
+Vallejo,Binders,17.09
+Mission Viejo,Storage,330.4
+Mission Viejo,Labels,26.25
+Rochester Hills,Accessories,132.52
+Plainfield,Paper,12.24
+Sierra Vista,Fasteners,31.56
+Sierra Vista,Appliances,30.14
+Vancouver,Furnishings,12.22
+Vancouver,Phones,302.38
+Vancouver,Accessories,316.0
+Columbus,Binders,18.26
+Aurora,Chairs,253.37
+Arlington,Storage,253.25
+Arlington,Tables,1068.76
+Arlington,Binders,11.88
+Louisville,Fasteners,10.09
+Dallas,Supplies,23.76
+Dallas,Paper,14.95
+Cleveland,Furnishings,30.36
+Quincy,Art,19.56
+Tyler,Appliances,2.69
+Tyler,Accessories,27.82
+Tyler,Furnishings,82.52
+Tyler,Binders,117.09
+Burlington,Machines,7999.98
+Burlington,Appliances,355.19
+Jackson,Accessories,160.0
+Jackson,Labels,14.62
+Waynesboro,Furnishings,127.88
+Waynesboro,Phones,427.23
+Waynesboro,Storage,36.84
+Chester,Art,5.25
+Chester,Labels,72.53
+Chester,Envelopes,200.98
+Chester,Binders,8.6
+Seattle,Furnishings,43.13
+Long Beach,Tables,369.91
+Cary,Paper,10.37
+Cary,Appliances,112.54
+Cary,Accessories,15.22
+Palm Coast,Envelopes,24.45
+Mount Vernon,Appliances,281.34
+Mount Vernon,Phones,307.98
+Mount Vernon,Accessories,299.97
+Dover,Furnishings,108.0
+Orem,Binders,59.81
+Orem,Furnishings,73.32
+Hialeah,Supplies,45.58
+Austin,Envelopes,17.57
+Austin,Phones,124.79
+Oceanside,Paper,12.96
+Oceanside,Tables,400.03
+Oceanside,Storage,244.55
+Oceanside,Chairs,184.47
+Oceanside,Labels,6.3
+Seattle,Storage,169.68
+Seattle,Bookcases,152.92
+Naperville,Labels,11.78
+Naperville,Storage,272.74
+Naperville,Binders,3.54
+San Diego,Tables,596.74
+San Diego,Storage,154.44
+Evanston,Phones,11.99
+Trenton,Binders,41.28
+Trenton,Furnishings,105.81
+Trenton,Art,56.98
+Jacksonville,Tables,827.57
+Cottage Grove,Storage,24.56
+Cottage Grove,Accessories,119.8
+Green Bay,Paper,22.72
+Atlanta,Labels,12.39
+Bossier City,Envelopes,31.15
+Bossier City,Accessories,646.74
+Bossier City,Binders,5.64
+Bossier City,Storage,572.58
+Saint Petersburg,Furnishings,102.6
+Arlington,Chairs,427.7
+Des Moines,Binders,25.9
+Des Moines,Art,40.3
+Des Moines,Furnishings,34.58
+Columbia,Envelopes,154.32
+Lancaster,Binders,17.46
+Lancaster,Chairs,170.79
+Richmond,Binders,23.56
+Richmond,Storage,141.77
+Asheville,Phones,1363.96
+Rochester,Binders,20.16
+Lake Elsinore,Chairs,283.92
+Monroe,Paper,22.68
+Denver,Art,63.17
+Omaha,Furnishings,682.42
+Omaha,Accessories,119.97
+Edmonds,Art,18.75
+Edmonds,Tables,1298.55
+Edmonds,Appliances,213.92
+Edmonds,Accessories,102.88
+Santa Ana,Furnishings,18.28
+Santa Ana,Accessories,1399.93
+Milwaukee,Paper,115.83
+Belleville,Accessories,239.97
+Belleville,Labels,9.82
+Lakeville,Fasteners,35.0
+Lakeville,Supplies,37.24
+Lakeville,Envelopes,15.28
+Florence,Chairs,1060.91
+Florence,Appliances,180.66
+Florence,Phones,191.98
+Tampa,Art,19.62
+Tampa,Machines,265.48
+Columbia,Paper,51.84
+Louisville,Phones,201.58
+Louisville,Chairs,300.98
+Lorain,Furnishings,51.8
+Linden,Accessories,115.36
+Salinas,Art,5.16
+Salinas,Paper,38.88
+Jackson,Art,18.51
+New York City,Supplies,54.9
+New Brunswick,Paper,7.61
+New Brunswick,Fasteners,7.16
+San Francisco,Supplies,25.35
+Jacksonville,Art,8.02
+Jacksonville,Phones,76.76
+Springfield,Labels,25.06
+Springfield,Furnishings,44.62
+Concord,Furnishings,247.44
+Concord,Accessories,371.97
+Rochester,Furnishings,37.93
+Columbia,Binders,21.06
+New Rochelle,Accessories,149.95
+New Rochelle,Binders,32.61
+Detroit,Phones,149.95
+Auburn,Paper,28.9
+Springfield,Binders,19.77
+Garland,Labels,10.44
+Garland,Binders,18.34
+Jackson,Phones,271.48
+Jackson,Storage,69.27
+Norwich,Furnishings,22.2
+Milwaukee,Furnishings,46.94
+Milwaukee,Accessories,111.2
+San Antonio,Tables,557.59
+San Antonio,Binders,8.88
+Dallas,Envelopes,51.88
+Dallas,Storage,107.44
+Alexandria,Storage,81.2
+Springfield,Art,22.96
+Springfield,Appliances,64.86
+Toledo,Art,12.48
+Toledo,Paper,13.87
+Philadelphia,Appliances,62.98
+Farmington,Accessories,159.99
+Riverside,Paper,12.96
+Riverside,Appliances,90.22
+Torrance,Binders,6.1
+Torrance,Tables,1114.27
+Mesa,Tables,287.86
+Philadelphia,Tables,350.35
+Round Rock,Art,27.17
+Round Rock,Bookcases,78.85
+Phoenix,Phones,153.97
+Phoenix,Paper,18.42
+Oceanside,Furnishings,19.64
+Fayetteville,Binders,21.03
+Boca Raton,Labels,4.61
+Detroit,Machines,3059.98
+Louisville,Art,20.71
+Pasadena,Labels,28.41
+Pasadena,Envelopes,27.97
+Pasadena,Machines,336.51
+Auburn,Furnishings,262.11
+Jacksonville,Chairs,207.98
+San Jose,Fasteners,10.23
+Virginia Beach,Binders,1362.78
+Virginia Beach,Phones,617.97
+Henderson,Envelopes,14.07
+Henderson,Storage,71.59
+Henderson,Furnishings,47.05
+Vancouver,Art,44.02
+New York City,Tables,330.59
+Murrieta,Storage,484.65
+Jacksonville,Paper,37.63
+Scottsdale,Envelopes,23.47
+Scottsdale,Binders,18.37
+Burlington,Paper,44.75
+Olympia,Furnishings,155.25
+Olympia,Storage,14.03
+Washington,Art,28.33
+Washington,Chairs,1267.53
+Washington,Machines,1379.92
+Springfield,Phones,191.98
+Hackensack,Paper,177.2
+Hackensack,Phones,197.97
+Hackensack,Chairs,854.94
+Hackensack,Labels,14.4
+Cincinnati,Paper,23.33
+Cincinnati,Binders,9.83
+Jefferson City,Furnishings,86.62
+Burlington,Art,15.27
+Saint Peters,Tables,697.16
+Rockford,Chairs,254.6
+Miami,Phones,572.67
+Miami,Furnishings,50.5
+San Diego,Binders,33.49
+Toledo,Appliances,144.55
+Toledo,Fasteners,5.93
+Toledo,Phones,176.98
+Toledo,Binders,14.34
+Brownsville,Supplies,1.74
+Denver,Paper,31.1
+Mesa,Binders,20.72
+Mesa,Accessories,31.98
+Columbus,Art,18.29
+Yonkers,Tables,836.59
+Yonkers,Paper,62.1
+Yonkers,Storage,362.92
+Yonkers,Machines,2476.18
+Des Moines,Paper,18.54
+Oakland,Phones,72.36
+Oakland,Labels,27.45
+Monroe,Furnishings,29.16
+San Diego,Art,36.44
+Clinton,Paper,26.01
+Clinton,Appliances,355.96
+Charlotte,Storage,387.72
+Encinitas,Binders,26.7
+Encinitas,Bookcases,119.83
+Encinitas,Accessories,119.98
+Roswell,Paper,25.92
+Roswell,Accessories,149.95
+Roswell,Envelopes,16.61
+Jonesboro,Phones,379.95
+Jonesboro,Art,14.79
+Jonesboro,Furnishings,38.6
+Jonesboro,Envelopes,23.34
+Jonesboro,Chairs,1067.94
+Richmond,Art,6.1
+Richmond,Envelopes,64.02
+Springfield,Tables,564.2
+Springfield,Envelopes,31.18
+Antioch,Paper,19.44
+Homestead,Storage,85.22
+La Porte,Envelopes,287.52
+La Porte,Appliances,37.68
+La Porte,Paper,19.98
+La Porte,Art,20.58
+La Porte,Binders,16.89
+Los Angeles,Fasteners,11.62
+Los Angeles,Machines,558.4
+Lansing,Appliances,644.08
+Lansing,Fasteners,5.84
+Lansing,Binders,12.76
+Lansing,Phones,10.95
+Lansing,Copiers,599.98
+Cuyahoga Falls,Furnishings,8.35
+Reno,Art,3.64
+Reno,Binders,159.77
+Harrisonburg,Storage,122.48
+Harrisonburg,Tables,1441.3
+Harrisonburg,Binders,62.31
+Minneapolis,Appliances,226.79
+Escondido,Art,38.65
+Jackson,Binders,38.14
+Royal Oak,Paper,17.67
+Bloomington,Binders,17.15
+Concord,Supplies,15.52
+Rockville,Chairs,172.5
+Rockville,Phones,135.22
+Lakewood,Phones,395.94
+Jacksonville,Envelopes,28.38
+Coral Springs,Paper,15.55
+Coral Springs,Furnishings,35.84
+Coral Springs,Storage,24.67
+Denver,Chairs,582.34
+Denver,Storage,465.8
+Buffalo,Art,2.78
+Buffalo,Envelopes,79.96
+Cincinnati,Copiers,839.99
+Boynton Beach,Furnishings,63.97
+Boynton Beach,Binders,37.42
+Gulfport,Envelopes,48.69
+Fresno,Tables,764.69
+Fresno,Bookcases,187.82
+Milwaukee,Phones,192.26
+Chester,Phones,59.35
+Chester,Furnishings,25.28
+Greenville,Binders,17.62
+Long Beach,Binders,68.48
+La Porte,Phones,69.9
+La Porte,Furnishings,41.85
+Louisville,Furnishings,22.75
+Florence,Paper,8.73
+Fort Worth,Paper,12.36
+Fort Worth,Chairs,388.43
+Houston,Art,21.86
+Macon,Accessories,58.42
+Cedar Rapids,Phones,278.4
+Jacksonville,Labels,5.04
+Austin,Binders,9.76
+Providence,Storage,119.1
+San Diego,Supplies,22.42
+San Diego,Labels,20.77
+Pueblo,Appliances,845.73
+Saint Paul,Phones,114.95
+Arlington,Bookcases,210.97
+Pasadena,Paper,20.74
+Pasadena,Binders,17.71
+Pasadena,Chairs,255.11
+Lawrence,Labels,51.75
+Columbus,Chairs,281.37
+Deltona,Phones,341.95
+Deltona,Binders,5.18
+Murray,Appliances,72.8
+Wilmington,Paper,27.58
+Norwich,Paper,11.34
+Lorain,Phones,2.97
+Lorain,Storage,27.44
+Dallas,Binders,6.82
+Middletown,Storage,552.56
+Jacksonville,Machines,821.3
+Freeport,Art,47.82
+Freeport,Labels,13.05
+Lakeville,Art,20.84
+Lakeville,Binders,44.64
+Evanston,Chairs,258.28
+Louisville,Paper,28.27
+Tucson,Machines,95.99
+Tucson,Chairs,286.74
+Pico Rivera,Furnishings,145.9
+Colorado Springs,Bookcases,329.82
+Colorado Springs,Art,12.22
+Clinton,Accessories,49.08
+Vallejo,Labels,22.02
+Provo,Tables,912.75
+Pleasant Grove,Appliances,1089.75
+Pleasant Grove,Paper,447.84
+Pleasant Grove,Art,16.4
+Pleasant Grove,Phones,399.96
+Pleasant Grove,Storage,158.9
+Pleasant Grove,Binders,12.66
+Smyrna,Storage,117.71
+Smyrna,Paper,122.97
+Smyrna,Fasteners,7.56
+Smyrna,Furnishings,18.84
+Smyrna,Bookcases,239.98
+Smyrna,Envelopes,92.94
+Smyrna,Phones,104.85
+Aurora,Tables,460.69
+Salem,Envelopes,251.79
+Columbus,Tables,370.19
+Grand Prairie,Labels,23.68
+Costa Mesa,Accessories,239.97
+Mesa,Paper,37.94
+Mesa,Appliances,60.67
+Mesa,Phones,263.96
+Salinas,Binders,29.8
+Salinas,Envelopes,14.75
+Salinas,Labels,427.42
+Florence,Binders,152.76
+Florence,Supplies,7.27
+Parma,Paper,19.54
+Parma,Art,5.25
+Amarillo,Accessories,171.7
+Amarillo,Chairs,1410.09
+Providence,Binders,30.4
+Providence,Paper,16.97
+Mobile,Paper,70.98
+Mobile,Binders,62.94
+Mobile,Machines,3040.0
+New Bedford,Binders,32.25
+Irving,Labels,10.49
+Middletown,Furnishings,104.7
+Vineland,Tables,244.01
+Pasadena,Accessories,167.95
+Glendale,Furnishings,117.47
+Glendale,Accessories,89.54
+Detroit,Binders,39.91
+Niagara Falls,Art,17.28
+Niagara Falls,Binders,17.71
+Thomasville,Supplies,52.14
+Westminster,Phones,470.38
+Coppell,Art,11.66
+Coppell,Storage,16.78
+Austin,Paper,36.29
+Columbus,Machines,101.99
+Omaha,Binders,15.36
+Pomona,Art,210.71
+North Las Vegas,Tables,1669.6
+Tucson,Furnishings,129.04
+Tucson,Paper,79.38
+Tucson,Storage,247.1
+Allentown,Art,4.16
+Allentown,Furnishings,11.65
+Newark,Fasteners,26.18
+Newark,Paper,18.69
+Tempe,Storage,45.07
+Tempe,Fasteners,6.52
+Laguna Niguel,Bookcases,203.98
+Bridgeton,Storage,40.74
+Bridgeton,Appliances,11.67
+Everett,Phones,314.94
+Everett,Art,33.61
+Everett,Bookcases,476.96
+Everett,Binders,123.17
+Watertown,Bookcases,1573.49
+San Antonio,Paper,42.24
+New York City,Copiers,839.98
+Appleton,Labels,21.56
+Bellevue,Art,5.28
+Long Beach,Accessories,91.96
+Columbia,Storage,258.48
+Seattle,Phones,107.88
+Allen,Accessories,21.48
+Allen,Binders,8.78
+El Paso,Phones,308.32
+El Paso,Chairs,362.25
+Virginia Beach,Art,10.96
+Grapevine,Art,33.49
+Grapevine,Fasteners,8.04
+Olympia,Phones,201.57
+Peoria,Bookcases,359.06
+Carrollton,Paper,13.63
+Carrollton,Supplies,6.67
+Carrollton,Art,99.14
+Carrollton,Furnishings,20.56
+Smyrna,Art,29.36
+Oakland,Storage,70.26
+Eagan,Labels,14.94
+Eagan,Art,29.79
+Kent,Furnishings,198.46
+Kent,Labels,786.48
+Kent,Binders,23.17
+Kent,Accessories,60.99
+Lafayette,Chairs,375.19
+Cleveland,Binders,41.26
+Cleveland,Storage,170.24
+Cleveland,Paper,17.3
+Cleveland,Accessories,56.64
+Tigard,Paper,37.8
+Tigard,Storage,669.08
+Tigard,Phones,297.56
+Washington,Paper,19.44
+Washington,Binders,9.64
+Washington,Furnishings,39.52
+Skokie,Fasteners,12.62
+Seattle,Copiers,3149.93
+Dallas,Fasteners,7.76
+Dallas,Art,23.83
+North Las Vegas,Accessories,114.78
+Plano,Phones,167.97
+Suffolk,Labels,9.82
+Indianapolis,Paper,29.69
+Indianapolis,Binders,125.88
+Plano,Accessories,13.62
+Bayonne,Accessories,63.96
+Bayonne,Binders,14.46
+Bayonne,Phones,104.98
+San Diego,Fasteners,7.86
+Glendale,Binders,9.7
+San Francisco,Appliances,83.79
+Chicago,Bookcases,278.9
+Dublin,Tables,1048.35
+Springfield,Accessories,100.0
+Fayetteville,Paper,30.82
+Jacksonville,Appliances,34.85
+Rochester,Art,13.36
+Oakland,Furnishings,12.54
+San Diego,Bookcases,423.67
+Suffolk,Supplies,35.06
+Suffolk,Furnishings,109.8
+Greensboro,Binders,9.85
+Baltimore,Binders,20.86
+Baltimore,Storage,497.61
+Baltimore,Art,9.46
+Baltimore,Labels,33.16
+Franklin,Paper,5.88
+Milwaukee,Binders,21.9
+Kenosha,Phones,699.98
+Kenosha,Accessories,269.95
+Madison,Chairs,2807.84
+Madison,Art,46.64
+Olathe,Art,107.94
+San Jose,Furnishings,76.14
+Tulsa,Phones,87.39
+Chicago,Fasteners,9.21
+Redmond,Binders,31.32
+Redmond,Furnishings,17.31
+Raleigh,Phones,177.48
+Macon,Paper,38.88
+Cleveland,Phones,182.97
+Muskogee,Phones,1439.92
+Muskogee,Tables,262.11
+Monroe,Chairs,452.68
+Austin,Machines,1439.98
+Meriden,Art,8.91
+Roswell,Appliances,1245.86
+Charlotte,Labels,17.54
+Charlotte,Furnishings,24.53
+Charlotte,Appliances,186.19
+Bowling Green,Chairs,140.81
+San Antonio,Labels,50.12
+San Antonio,Furnishings,29.14
+South Bend,Storage,88.08
+South Bend,Accessories,831.2
+South Bend,Paper,62.11
+South Bend,Envelopes,106.75
+Bristol,Appliances,137.62
+Bristol,Phones,230.24
+Newark,Phones,161.69
+Spokane,Tables,70.98
+Long Beach,Bookcases,176.78
+Keller,Labels,6.0
+Hialeah,Fasteners,4.54
+Hialeah,Binders,201.87
+Fairfield,Appliances,445.98
+Fairfield,Tables,273.06
+Huntington Beach,Paper,10.56
+Port Orange,Envelopes,7.82
+Medford,Paper,24.78
+Charlottesville,Art,34.65
+Missoula,Binders,487.98
+Miami,Envelopes,29.81
+Miami,Binders,15.86
+Miami,Tables,174.06
+Florence,Storage,124.16
+Springfield,Chairs,538.47
+Indianapolis,Storage,415.13
+Apopka,Binders,9.89
+Boynton Beach,Labels,8.28
+Boynton Beach,Art,15.53
+Franklin,Art,7.23
+Watertown,Binders,787.94
+Watertown,Chairs,327.11
+Reading,Storage,15.01
+Arlington,Phones,665.81
+Lafayette,Bookcases,193.85
+Lafayette,Furnishings,15.4
+Broomfield,Binders,14.35
+Broomfield,Storage,33.49
+Broomfield,Chairs,662.88
+Quincy,Labels,33.59
+Quincy,Storage,27.44
+Quincy,Binders,3.12
+Carrollton,Accessories,111.98
+Paterson,Phones,281.97
+Paterson,Supplies,69.5
+Paterson,Paper,114.2
+Tulsa,Accessories,229.62
+Montgomery,Storage,275.97
+Montgomery,Chairs,545.88
+Salem,Art,18.69
+Glendale,Chairs,266.35
+Glendale,Storage,39.07
+Oklahoma City,Phones,341.98
+Brentwood,Appliances,1419.59
+Brentwood,Furnishings,23.88
+Brentwood,Paper,17.66
+Columbus,Copiers,1049.98
+Springfield,Fasteners,11.3
+Chesapeake,Labels,20.03
+Chesapeake,Phones,144.95
+Pasadena,Art,20.64
+Louisville,Storage,292.83
+Lubbock,Binders,8.72
+Columbia,Art,22.32
+Columbia,Accessories,61.44
+Johnson City,Art,4.22
+Johnson City,Appliances,333.06
+Johnson City,Paper,24.9
+Auburn,Chairs,350.98
+San Bernardino,Binders,28.74
+San Bernardino,Labels,14.62
+San Bernardino,Supplies,33.36
+San Bernardino,Paper,35.05
+Providence,Chairs,605.88
+Fresno,Binders,21.06
+Leominster,Binders,37.88
+Leominster,Storage,104.9
+Leominster,Paper,16.84
+Fort Worth,Art,7.34
+Rochester,Chairs,269.97
+Bozeman,Paper,29.04
+Bozeman,Labels,14.62
+Peoria,Paper,24.12
+Peoria,Furnishings,7.97
+Perth Amboy,Appliances,162.64
+Perth Amboy,Phones,597.0
+Perth Amboy,Paper,33.62
+Richmond,Furnishings,27.46
+Detroit,Accessories,144.88
+Pomona,Accessories,149.97
+Pomona,Tables,710.83
+Ontario,Chairs,283.92
+Brentwood,Phones,319.97
+Baltimore,Paper,69.8
+Baltimore,Appliances,84.22
+Houston,Labels,12.28
+Rancho Cucamonga,Labels,5.76
+Wilmington,Tables,255.14
+Moorhead,Chairs,479.9
+Farmington,Supplies,12.88
+Portland,Storage,240.8
+Boynton Beach,Paper,12.96
+Mesquite,Binders,0.88
+Redlands,Paper,24.94
+Redlands,Binders,398.35
+Redlands,Art,35.4
+Redlands,Fasteners,17.45
+Redlands,Chairs,323.14
+Redlands,Supplies,29.7
+Redlands,Phones,1295.84
+Redlands,Storage,49.15
+Redlands,Bookcases,425.83
+Rochester,Tables,376.87
+Stockton,Paper,86.42
+Ormond Beach,Binders,2.81
+Sunnyvale,Chairs,215.98
+Lansing,Bookcases,241.96
+Lansing,Labels,27.72
+Dover,Appliances,33.28
+Dover,Art,24.18
+Grand Prairie,Furnishings,26.42
+Grand Prairie,Binders,3.66
+York,Chairs,422.06
+York,Binders,37.99
+York,Storage,254.35
+College Station,Chairs,233.06
+Saint Louis,Accessories,111.79
+Dallas,Furnishings,30.56
+Minneapolis,Storage,283.42
+Deltona,Art,17.86
+Cincinnati,Furnishings,79.38
+Oakland,Art,34.58
+Manteca,Paper,314.55
+Laredo,Paper,8.29
+Laredo,Furnishings,139.92
+Laredo,Binders,4.29
+Kent,Art,14.02
+Kent,Phones,71.98
+San Angelo,Chairs,248.43
+Salt Lake City,Paper,60.12
+Salt Lake City,Binders,102.72
+Knoxville,Art,18.22
+Montgomery,Art,14.67
+Little Rock,Furnishings,22.2
+Little Rock,Phones,688.45
+Lancaster,Furnishings,28.0
+Bristol,Art,67.56
+Fairfield,Phones,14.99
+Lincoln Park,Appliances,167.29
+San Jose,Binders,39.87
+San Jose,Appliances,42.78
+San Jose,Chairs,113.89
+Marion,Phones,485.94
+Marion,Art,20.0
+Marion,Chairs,70.69
+Littleton,Bookcases,72.29
+Austin,Fasteners,3.19
+Portland,Phones,332.34
+Burlington,Accessories,205.03
+Indianapolis,Art,75.12
+Provo,Supplies,44.4
+Pasadena,Fasteners,9.02
+Pasadena,Phones,539.96
+Bangor,Phones,437.85
+Bangor,Furnishings,109.48
+Atlanta,Accessories,251.91
+Atlanta,Paper,59.4
+Miami,Art,42.67
+Southaven,Storage,306.2
+Southaven,Tables,85.98
+Southaven,Accessories,261.97
+Middletown,Paper,48.16
+New Castle,Phones,23.92
+New Castle,Appliances,60.69
+Murfreesboro,Paper,12.42
+Salem,Appliances,35.04
+Midland,Binders,35.07
+Roswell,Chairs,723.92
+Peoria,Chairs,197.08
+Peoria,Storage,142.02
+Peoria,Art,15.87
+Sioux Falls,Labels,17.43
+Sioux Falls,Appliances,416.32
+Sioux Falls,Binders,51.91
+Sioux Falls,Chairs,182.94
+Sioux Falls,Accessories,196.47
+Richmond,Appliances,200.78
+Henderson,Binders,68.47
+Fort Collins,Envelopes,14.35
+Lafayette,Paper,19.44
+Clarksville,Appliances,69.22
+Fairfield,Envelopes,10.86
+Warner Robins,Art,41.86
+Franklin,Accessories,80.97
+Milwaukee,Appliances,214.14
+San Francisco,Machines,767.95
+Waynesboro,Appliances,160.32
+Waynesboro,Binders,27.57
+Sacramento,Chairs,762.32
+Fairfield,Furnishings,82.64
+Fairfield,Art,4.91
+Warwick,Accessories,252.0
+Aurora,Fasteners,3.57
+Aurora,Paper,23.69
+Columbus,Supplies,13.62
+Thousand Oaks,Paper,32.75
+Lorain,Fasteners,7.22
+Lorain,Paper,49.57
+Fresno,Appliances,108.29
+Fresno,Art,16.02
+Fresno,Phones,294.55
+Fresno,Copiers,479.98
+Malden,Art,39.68
+Huntsville,Bookcases,956.66
+Milwaukee,Chairs,579.0
+Holyoke,Bookcases,301.96
+Albuquerque,Accessories,404.98
+Albuquerque,Binders,79.87
+Sparks,Machines,2396.4
+Coachella,Storage,63.56
+Coachella,Accessories,99.99
+Elmhurst,Storage,230.38
+Elmhurst,Paper,13.57
+Fairfield,Accessories,158.93
+Fairfield,Fasteners,39.31
+Arlington,Furnishings,21.18
+Farmington,Furnishings,545.85
+Louisville,Tables,145.98
+Passaic,Phones,301.49
+Passaic,Tables,174.29
+Passaic,Appliances,662.84
+Passaic,Accessories,95.1
+Passaic,Envelopes,26.88
+North Charleston,Storage,269.49
+Plainfield,Appliances,41.95
+Newport News,Paper,32.4
+Newport News,Storage,194.7
+Fayetteville,Furnishings,21.27
+Fayetteville,Bookcases,324.7
+Fayetteville,Appliances,282.22
+Newark,Storage,138.53
+Jamestown,Phones,4548.81
+Houston,Tables,376.51
+Mishawaka,Chairs,647.84
+San Diego,Envelopes,27.75
+Skokie,Paper,12.22
+Skokie,Binders,9.36
+Oklahoma City,Storage,829.58
+Bowling Green,Storage,349.91
+Westfield,Furnishings,80.75
+Oklahoma City,Labels,24.81
+Oklahoma City,Appliances,503.11
+Oklahoma City,Paper,12.96
+Oklahoma City,Binders,38.16
+Fort Lauderdale,Paper,10.37
+Little Rock,Paper,44.96
+Little Rock,Binders,41.05
+Little Rock,Fasteners,12.67
+Little Rock,Accessories,251.66
+La Quinta,Accessories,46.32
+Cleveland,Chairs,181.99
+Scottsdale,Furnishings,111.89
+Malden,Bookcases,173.94
+Malden,Labels,14.76
+San Jose,Bookcases,188.25
+Phoenix,Art,2.3
+Phoenix,Labels,10.78
+Tallahassee,Phones,705.54
+Coral Springs,Appliances,197.06
+Orem,Bookcases,1406.86
+Orem,Labels,15.75
+Orem,Storage,323.1
+Nashville,Labels,9.22
+Nashville,Paper,16.5
+Bowling Green,Accessories,105.48
+Bellingham,Binders,25.12
+Bellingham,Tables,2665.62
+Woodstock,Art,2.91
+Alexandria,Furnishings,62.82
+Alexandria,Paper,16.68
+Alexandria,Phones,155.35
+Haltom City,Envelopes,6.61
+Wheeling,Furnishings,14.14
+Wheeling,Tables,637.41
+Summerville,Phones,79.1
+Summerville,Binders,327.84
+Columbus,Storage,64.96
+Arlington,Accessories,79.89
+Arlington,Labels,4.21
+Arlington,Paper,35.44
+Carlsbad,Art,4.17
+Carlsbad,Phones,67.04
+Carlsbad,Storage,37.32
+Carlsbad,Labels,18.45
+Saint Louis,Paper,18.84
+Springfield,Machines,341.46
+Tulsa,Paper,14.94
+Hot Springs,Accessories,29.99
+Raleigh,Furnishings,46.15
+Tulsa,Furnishings,477.3
+Tulsa,Binders,36.96
+Hesperia,Bookcases,424.96
+Provo,Binders,11.78
+Provo,Paper,93.43
+Provo,Bookcases,1292.94
+Provo,Storage,261.74
+Provo,Labels,14.4
+Gilbert,Chairs,883.84
+Memphis,Labels,11.21
+Memphis,Binders,7.31
+Amarillo,Paper,25.92
+Lowell,Chairs,785.88
+Asheville,Art,8.76
+Asheville,Appliances,43.58
+Pueblo,Binders,14.94
+Jackson,Machines,350.97
+Thomasville,Envelopes,95.95
+Thomasville,Binders,3.2
+Englewood,Paper,15.48
+Englewood,Phones,108.58
+Hialeah,Furnishings,18.19
+Lancaster,Paper,32.9
+Jacksonville,Fasteners,25.22
+Carlsbad,Supplies,16.68
+Carlsbad,Paper,105.8
+Lakewood,Furnishings,40.48
+Costa Mesa,Storage,124.36
+Cary,Fasteners,8.38
+Plainfield,Phones,73.98
+Plainfield,Art,7.4
+Las Cruces,Paper,49.12
+Newark,Bookcases,370.97
+Hoover,Supplies,477.24
+Hoover,Accessories,25.98
+Newark,Envelopes,57.96
+Frisco,Accessories,27.17
+Tallahassee,Binders,6.92
+Vacaville,Storage,423.28
+Murray,Paper,48.4
+Waukesha,Storage,54.5
+Fort Lauderdale,Furnishings,32.34
+Colorado Springs,Appliances,60.98
+Bakersfield,Bookcases,195.47
+Pompano Beach,Furnishings,23.68
+Pompano Beach,Accessories,2.38
+Troy,Phones,57.59
+Corpus Christi,Furnishings,39.96
+Corpus Christi,Art,16.46
+Omaha,Appliances,36.27
+Omaha,Paper,17.64
+Redondo Beach,Phones,756.73
+Redondo Beach,Binders,14.88
+Redondo Beach,Bookcases,308.5
+Little Rock,Art,12.26
+Las Cruces,Furnishings,41.37
+Milwaukee,Tables,433.83
+Franklin,Storage,380.18
+Encinitas,Tables,298.78
+Anaheim,Phones,302.38
+Lancaster,Storage,156.51
+Hoover,Art,15.47
+Hoover,Binders,7.16
+Tallahassee,Machines,695.7
+Chesapeake,Chairs,822.41
+Huntsville,Storage,143.73
+Woodstock,Chairs,845.49
+Roswell,Furnishings,56.28
+Roswell,Binders,2690.97
+Palm Coast,Binders,8.62
+San Diego,Chairs,578.86
+Fayetteville,Chairs,225.3
+Atlanta,Phones,256.96
+Atlanta,Bookcases,1628.82
+Orlando,Paper,20.74
+Toledo,Supplies,14.72
+Toledo,Storage,38.25
+Westfield,Envelopes,52.34
+Westfield,Art,4.66
+Westfield,Accessories,254.97
+Orange,Binders,15.6
+Orange,Supplies,27.93
+Woodstock,Binders,11.45
+Tempe,Chairs,307.92
+Lake Charles,Chairs,51.96
+Lake Charles,Binders,247.72
+Rochester,Phones,263.96
+Long Beach,Art,11.68
+Charlotte,Copiers,959.97
+Highland Park,Paper,37.46
+Highland Park,Chairs,539.66
+Eagan,Paper,8.56
+Eagan,Storage,52.4
+Hempstead,Envelopes,24.69
+Hempstead,Art,35.0
+Hempstead,Binders,222.35
+Noblesville,Phones,199.84
+Noblesville,Binders,12.56
+Detroit,Fasteners,6.08
+Watertown,Appliances,27.9
+Watertown,Furnishings,70.71
+Apple Valley,Art,8.64
+Burlington,Binders,819.29
+Saginaw,Furnishings,19.76
+Seattle,Envelopes,58.43
+Glendale,Paper,21.06
+Glendale,Phones,339.95
+Oceanside,Binders,19.35
+Skokie,Furnishings,56.33
+Skokie,Storage,30.02
+Fayetteville,Storage,203.16
+Allen,Tables,244.01
+Allen,Paper,15.94
+Mount Pleasant,Chairs,545.94
+Stockton,Binders,164.64
+Sterling Heights,Binders,19.0
+Eau Claire,Binders,91.68
+Rancho Cucamonga,Binders,34.27
+Murray,Furnishings,191.82
+Louisville,Binders,21.59
+Louisville,Machines,2549.99
+Pharr,Storage,727.3
+Pharr,Furnishings,22.61
+Pharr,Accessories,666.4
+West Jordan,Fasteners,5.04
+West Jordan,Paper,92.94
+West Jordan,Furnishings,66.69
+West Jordan,Binders,91.68
+Brownsville,Bookcases,327.73
+Billings,Binders,8.29
+Gresham,Phones,403.17
+Lincoln Park,Bookcases,194.32
+Lincoln Park,Art,25.99
+Gresham,Chairs,841.09
+Monroe,Binders,61.77
+Monroe,Art,56.3
+Pasadena,Tables,171.29
+Chattanooga,Furnishings,101.52
+Long Beach,Envelopes,22.18
+Long Beach,Chairs,965.98
+Minneapolis,Art,13.9
+Meridian,Furnishings,41.96
+Meridian,Appliances,227.84
+Meridian,Paper,37.94
+Chicago,Copiers,959.98
+Newark,Accessories,132.52
+Albuquerque,Storage,90.8
+Albuquerque,Phones,140.74
+Albuquerque,Paper,36.27
+Dallas,Chairs,819.65
+Apple Valley,Paper,22.68
+Apple Valley,Phones,43.18
+Henderson,Phones,671.93
+Newark,Binders,31.49
+Bolingbrook,Supplies,31.68
+Bolingbrook,Paper,10.37
+Bolingbrook,Fasteners,12.03
+Bolingbrook,Appliances,5.77
+Fort Worth,Labels,33.12
+Fort Worth,Bookcases,421.87
+Providence,Supplies,695.16
+Providence,Bookcases,281.47
+Seattle,Machines,558.4
+Seattle,Supplies,28.37
+Lakeland,Phones,152.76
+Lakeland,Art,35.73
+Lakeland,Binders,33.57
+Lakeland,Storage,563.81
+Cincinnati,Accessories,86.5
+Austin,Chairs,263.84
+Newark,Machines,224.94
+Maple Grove,Binders,735.98
+Jacksonville,Storage,90.6
+Lansing,Furnishings,67.0
+Tallahassee,Chairs,390.27
+Tallahassee,Paper,53.18
+Fort Collins,Bookcases,180.59
+Fort Collins,Accessories,47.98
+Lowell,Phones,271.9
+Woodland,Labels,3.75
+Woodland,Binders,20.93
+Missouri City,Binders,6.37
+Jackson,Fasteners,17.51
+Tempe,Binders,3.37
+Akron,Furnishings,149.23
+Fresno,Accessories,349.95
+Pearland,Envelopes,13.39
+Pearland,Binders,11.23
+San Mateo,Labels,75.18
+Oakland,Accessories,314.97
+Lakewood,Paper,37.94
+Lakewood,Envelopes,37.78
+Lakewood,Accessories,67.5
+Tempe,Paper,9.41
+Tempe,Phones,274.39
+Tempe,Envelopes,12.77
+Tempe,Supplies,15.36
+Tempe,Accessories,34.76
+Riverside,Binders,27.58
+Grand Prairie,Phones,219.8
+Grand Prairie,Chairs,257.22
+Grand Rapids,Fasteners,24.85
+Highland Park,Binders,3.01
+Decatur,Phones,90.47
+Sioux Falls,Fasteners,6.54
+Visalia,Accessories,7.92
+Overland Park,Fasteners,18.24
+Overland Park,Art,27.78
+Alexandria,Art,22.96
+Alexandria,Supplies,4164.05
+Raleigh,Accessories,47.98
+Raleigh,Paper,9.39
+Muskogee,Art,6.56
+Muskogee,Appliances,13.11
+Temecula,Phones,494.38
+Temecula,Binders,29.2
+Temecula,Accessories,142.54
+Sterling Heights,Art,45.52
+Laredo,Envelopes,12.98
+Laredo,Phones,273.18
+Gulfport,Furnishings,86.45
+Round Rock,Furnishings,341.96
+Redlands,Labels,8.23
+Columbia,Appliances,871.8
+Oakland,Tables,568.73
+Oakland,Binders,64.48
+Oakland,Appliances,203.52
+Quincy,Tables,244.62
+Quincy,Phones,59.97
+Quincy,Fasteners,11.68
+Yucaipa,Art,50.8
+Bristol,Tables,70.56
+Revere,Paper,149.13
+Revere,Binders,22.06
+Mission Viejo,Bookcases,290.67
+Las Vegas,Bookcases,141.96
+Hempstead,Furnishings,28.44
+Hempstead,Chairs,363.09
+Hempstead,Phones,39.96
+Conroe,Storage,111.67
+Tampa,Envelopes,2.9
+Charlotte,Fasteners,13.23
+Charlotte,Tables,472.52
+Richmond,Phones,259.96
+Tinley Park,Furnishings,22.29
+Madison,Fasteners,1.81
+Madison,Binders,8.26
+Aurora,Supplies,18.76
+Dubuque,Binders,15.24
+Dubuque,Chairs,1408.1
+Lancaster,Tables,215.15
+Inglewood,Storage,192.34
+Inglewood,Furnishings,163.68
+Bellevue,Binders,19.9
+Dallas,Tables,298.12
+San Francisco,Fasteners,8.75
+Macon,Binders,32.94
+Nashville,Art,23.6
+Perth Amboy,Art,286.79
+Revere,Appliances,61.96
+Revere,Bookcases,361.96
+Jackson,Furnishings,33.48
+Dearborn Heights,Chairs,180.98
+Dearborn Heights,Accessories,99.98
+Overland Park,Accessories,34.95
+Overland Park,Binders,152.0
+Santa Fe,Accessories,92.52
+Mobile,Furnishings,8.96
+Hickory,Phones,36.19
+Carol Stream,Chairs,395.27
+Carol Stream,Storage,252.05
+Carol Stream,Paper,11.17
+Saint Cloud,Accessories,363.95
+Saint Cloud,Chairs,603.92
+Mobile,Accessories,209.97
+Mobile,Art,25.92
+Austin,Accessories,55.2
+Plano,Binders,3.39
+Plano,Bookcases,193.07
+Plano,Paper,11.65
+Plano,Machines,418.8
+Plano,Storage,509.49
+Fayetteville,Phones,44.78
+Sacramento,Binders,16.89
+Orlando,Accessories,87.17
+Lafayette,Art,33.96
+Henderson,Labels,15.05
+Henderson,Paper,48.45
+College Station,Paper,28.67
+College Station,Appliances,29.31
+Richmond,Supplies,37.88
+Akron,Art,11.3
+Akron,Binders,5.74
+Independence,Binders,1577.94
+Mesquite,Paper,5.18
+North Miami,Paper,14.5
+Bakersfield,Binders,21.18
+Bakersfield,Paper,8.85
+Jackson,Tables,1251.78
+Fremont,Paper,69.38
+Lancaster,Phones,89.99
+Lafayette,Supplies,1665.62
+Houston,Supplies,16.66
+Denver,Accessories,247.88
+Columbia,Furnishings,91.92
+Newark,Labels,9.45
+Macon,Furnishings,142.4
+Memphis,Fasteners,39.71
+Lawrence,Appliances,179.9
+Dublin,Accessories,244.52
+Plantation,Envelopes,8.69
+Plantation,Furnishings,18.64
+Glendale,Supplies,33.8
+Quincy,Accessories,183.83
+Salem,Labels,15.94
+Salem,Supplies,13.88
+Salem,Accessories,108.35
+Salem,Storage,34.19
+Troy,Envelopes,128.36
+Clinton,Fasteners,15.8
+Clinton,Machines,464.97
+Clinton,Furnishings,40.35
+Clinton,Labels,14.03
+Clinton,Binders,74.59
+Clinton,Art,43.67
+Clinton,Storage,94.01
+Riverside,Art,9.84
+Port Saint Lucie,Binders,2.69
+Mesa,Envelopes,43.92
+Denver,Machines,59.99
+Denver,Copiers,439.99
+Denver,Furnishings,15.49
+Yonkers,Accessories,321.97
+Toledo,Furnishings,25.17
+Decatur,Art,26.41
+Decatur,Copiers,899.97
+Decatur,Paper,18.5
+Mesquite,Furnishings,6.37
+Mesquite,Appliances,34.18
+Mesquite,Accessories,5.54
+Olympia,Paper,45.68
+Olympia,Chairs,603.92
+Omaha,Fasteners,23.55
+Clinton,Phones,879.96
+Jackson,Appliances,60.58
+Rock Hill,Fasteners,11.85
+Inglewood,Appliances,188.12
+Inglewood,Copiers,879.98
+Inglewood,Supplies,28.4
+Inglewood,Chairs,230.28
+Inglewood,Binders,841.57
+Odessa,Paper,29.41
+Odessa,Chairs,451.77
+Everett,Paper,73.77
+West Allis,Bookcases,241.96
+West Allis,Binders,8.52
+Hialeah,Chairs,1013.83
+Miami,Fasteners,6.91
+Chula Vista,Furnishings,665.88
+Manhattan,Phones,273.96
+Memphis,Paper,25.92
+Fort Lauderdale,Accessories,420.67
+Altoona,Binders,4.42
+Altoona,Art,16.03
+Greensboro,Tables,523.76
+Greensboro,Phones,1359.96
+Jacksonville,Supplies,8.05
+Plantation,Art,11.76
+Plantation,Binders,4.95
+Plantation,Chairs,335.03
+Plantation,Phones,100.79
+Milwaukee,Labels,16.22
+Mobile,Tables,801.96
+Mobile,Phones,59.97
+Mobile,Chairs,1056.86
+Detroit,Appliances,269.91
+Dover,Binders,34.5
+Glendale,Fasteners,2.37
+North Las Vegas,Phones,911.98
+North Las Vegas,Chairs,674.35
+North Las Vegas,Furnishings,37.4
+Bristol,Chairs,170.35
+Canton,Storage,501.81
+Fayetteville,Accessories,102.28
+Quincy,Furnishings,85.3
+Rockford,Binders,13.84
+Thornton,Accessories,102.34
+Yonkers,Binders,40.18
+Champaign,Furnishings,151.96
+Lawrence,Accessories,274.44
+Johnson City,Envelopes,20.9
+Johnson City,Binders,5.97
+Johnson City,Phones,110.38
+Gilbert,Paper,9.57
+Gilbert,Storage,66.77
+Gilbert,Furnishings,216.7
+Bloomington,Phones,134.85
+Roswell,Art,5.17
+Roswell,Phones,239.97
+Roswell,Storage,356.94
+Bolingbrook,Binders,9.98
+Texarkana,Accessories,48.9
+San Antonio,Fasteners,3.55
+Edinburg,Fasteners,2.37
+Toledo,Accessories,69.18
+Baytown,Paper,10.37
+Pearland,Phones,470.38
+Phoenix,Chairs,176.77
+Chesapeake,Storage,61.68
+Chesapeake,Binders,40.71
+Harlingen,Bookcases,241.33
+Harlingen,Art,145.54
+Bakersfield,Art,9.4
+Bakersfield,Labels,74.0
+Bakersfield,Phones,201.58
+Grand Prairie,Envelopes,28.75
+Greenwood,Chairs,1424.9
+Buffalo,Supplies,835.17
+Homestead,Paper,44.38
+Homestead,Supplies,2.94
+Freeport,Binders,57.02
+Nashville,Binders,31.09
+Nashville,Furnishings,37.96
+Lakewood,Bookcases,1206.2
+Plainfield,Storage,1577.48
+Woonsocket,Furnishings,52.96
+Lancaster,Supplies,286.34
+Tampa,Supplies,41.38
+Kenosha,Bookcases,512.94
+Kenosha,Chairs,860.93
+Kenosha,Art,14.98
+Kenosha,Furnishings,373.08
+Port Saint Lucie,Bookcases,231.92
+San Antonio,Envelopes,36.6
+Superior,Art,14.7
+Atlanta,Appliances,284.4
+Chester,Chairs,511.99
+Bedford,Paper,25.31
+Bedford,Art,9.18
+Bedford,Phones,153.58
+Bedford,Binders,12.86
+Lafayette,Machines,479.97
+Covington,Appliances,236.88
+Covington,Paper,29.9
+Covington,Accessories,100.0
+Lorain,Binders,18.69
+Lorain,Accessories,383.95
+Oakland,Chairs,572.16
+Concord,Art,20.02
+Dallas,Bookcases,206.0
+Indianapolis,Copiers,999.98
+Broken Arrow,Phones,821.94
+Miramar,Furnishings,279.6
+Tigard,Binders,5.02
+Sacramento,Phones,167.18
+Jonesboro,Bookcases,638.82
+Florence,Machines,3080.0
+Florence,Accessories,48.98
+Fremont,Furnishings,15.92
+Detroit,Bookcases,186.96
+Charlotte,Machines,2624.99
+Hollywood,Paper,23.81
+Chesapeake,Fasteners,45.0
+Chesapeake,Machines,209.97
+Alexandria,Fasteners,25.06
+Deer Park,Binders,6.92
+Wichita,Labels,18.9
+Freeport,Furnishings,166.53
+Dover,Labels,16.52
+Fresno,Storage,48.86
+Santa Ana,Art,56.3
+Columbia,Phones,467.04
+Franklin,Bookcases,823.91
+Baltimore,Accessories,94.06
+Mcallen,Binders,4.31
+Mcallen,Storage,8.93
+Iowa City,Paper,9.99
+Newark,Copiers,10499.97
+Boise,Tables,696.42
+Boise,Phones,304.78
+Cranston,Art,49.25
+Cranston,Paper,26.8
+Cranston,Furnishings,26.34
+Cranston,Binders,68.5
+Cranston,Chairs,1604.9
+Cranston,Tables,385.69
+Mishawaka,Binders,128.4
+Mount Vernon,Envelopes,42.81
+Urbandale,Fasteners,45.92
+Grand Rapids,Paper,35.56
+Baltimore,Furnishings,207.76
+Fairfield,Chairs,824.53
+Freeport,Paper,41.68
+Medford,Binders,9.76
+Fairfield,Labels,14.79
+Moorhead,Accessories,63.96
+Murray,Phones,71.93
+Murray,Art,25.99
+Lakewood,Machines,4721.57
+Indianapolis,Labels,12.39
+Port Arthur,Bookcases,246.13
+Port Arthur,Labels,11.7
+Port Arthur,Copiers,439.99
+Nashville,Storage,142.78
+Redmond,Tables,177.22
+Citrus Heights,Furnishings,129.39
+Tallahassee,Appliances,161.38
+Tallahassee,Furnishings,2.78
+The Colony,Envelopes,59.75
+Long Beach,Appliances,34.67
+Akron,Phones,259.9
+Akron,Accessories,175.97
+Hialeah,Paper,13.04
+Hialeah,Appliances,30.15
+Redmond,Accessories,19.99
+Daytona Beach,Accessories,50.88
+Daytona Beach,Envelopes,27.31
+Bullhead City,Envelopes,7.92
+Bullhead City,Furnishings,14.37
+Portage,Art,16.28
+New Rochelle,Chairs,631.78
+New Rochelle,Furnishings,60.72
+Lancaster,Accessories,40.0
+Stockton,Phones,95.84
+Asheville,Binders,19.01
+Clarksville,Binders,1598.06
+Clarksville,Art,36.96
+Lafayette,Phones,29.16
+Fargo,Art,23.71
+Fargo,Storage,704.76
+Fargo,Fasteners,7.41
+Lawrence,Binders,104.9
+Lawrence,Art,12.9
+Elkhart,Art,11.68
+Elkhart,Accessories,159.75
+Kent,Appliances,76.16
+San Gabriel,Furnishings,303.25
+San Gabriel,Appliances,270.72
+San Gabriel,Chairs,1487.04
+Highland Park,Bookcases,649.19
+Highland Park,Phones,153.58
+Hamilton,Furnishings,190.85
+Margate,Art,15.55
+Sandy Springs,Appliances,17.24
+Sandy Springs,Bookcases,784.9
+Sandy Springs,Phones,55.98
+Sandy Springs,Binders,113.94
+Tulsa,Chairs,368.97
+Orange,Art,70.95
+Henderson,Fasteners,25.56
+Henderson,Art,8.37
+Henderson,Tables,1264.41
+Port Arthur,Paper,10.37
+Westland,Accessories,109.95
+Westland,Art,36.56
+Westland,Paper,32.4
+Bloomington,Envelopes,45.29
+Bloomington,Paper,32.04
+Bloomington,Storage,174.73
+Denver,Supplies,669.65
+Boise,Binders,3.3
+Mentor,Chairs,63.69
+Mentor,Accessories,239.98
+Mentor,Tables,344.22
+Mentor,Paper,12.0
+Mentor,Furnishings,21.25
+Lawton,Storage,333.09
+Lawton,Tables,248.98
+Hampton,Chairs,290.98
+Tulsa,Art,24.41
+Richmond,Accessories,47.64
+Rome,Phones,269.98
+Rome,Paper,99.9
+Rome,Furnishings,39.08
+Marion,Accessories,116.83
+Manteca,Chairs,122.35
+Manteca,Envelopes,15.28
+Providence,Phones,128.85
+Providence,Tables,493.92
+Oklahoma City,Envelopes,325.86
+Manchester,Labels,5.76
+La Crosse,Binders,56.82
+Florence,Fasteners,31.56
+El Paso,Envelopes,49.57
+Miramar,Chairs,419.14
+Wichita,Art,21.24
+Wichita,Binders,127.96
+Lewiston,Binders,9.58
+Hampton,Binders,505.05
+Hattiesburg,Accessories,145.85
+Danville,Envelopes,76.58
+Danville,Art,8.8
+Danville,Binders,316.86
+Danville,Fasteners,5.58
+Danville,Furnishings,25.02
+Danville,Storage,452.55
+Milwaukee,Supplies,21.81
+Baltimore,Chairs,402.45
+Baltimore,Envelopes,137.25
+Baltimore,Fasteners,11.52
+Gulfport,Binders,31.36
+Everett,Chairs,1085.88
+Columbia,Supplies,8.83
+Mount Pleasant,Furnishings,17.14
+Newport News,Copiers,1599.92
+Newport News,Envelopes,21.11
+Fort Collins,Binders,3.17
+Fort Collins,Chairs,579.14
+Perth Amboy,Storage,166.45
+Freeport,Storage,45.25
+Pembroke Pines,Binders,4.55
+Pembroke Pines,Labels,16.56
+Fort Worth,Storage,772.68
+Logan,Binders,47.57
+Logan,Storage,51.17
+Logan,Accessories,82.8
+Auburn,Fasteners,15.42
+Austin,Art,5.25
+Austin,Furnishings,8.0
+Waterbury,Supplies,65.17
+Waterbury,Labels,14.62
+Waterbury,Furnishings,173.24
+Huntsville,Paper,68.78
+Huntsville,Furnishings,76.73
+Athens,Labels,14.73
+Apopka,Appliances,671.54
+Lewiston,Accessories,67.98
+Long Beach,Labels,30.55
+Rochester,Fasteners,7.9
+Spokane,Machines,837.6
+Pembroke Pines,Paper,65.42
+Chula Vista,Envelopes,182.94
+San Antonio,Accessories,139.56
+Avondale,Phones,742.34
+Newark,Appliances,70.21
+Buffalo,Chairs,793.26
+Wichita,Paper,279.9
+Colorado Springs,Accessories,58.08
+Colorado Springs,Tables,364.95
+Colorado Springs,Paper,27.7
+Marietta,Binders,5.64
+Eau Claire,Paper,195.64
+Eau Claire,Phones,239.9
+Philadelphia,Copiers,1199.98
+Norwich,Binders,10.36
+Yuma,Binders,44.86
+Wausau,Appliances,245.88
+Wausau,Storage,29.61
+Wausau,Binders,12.39
+Dublin,Phones,90.19
+Bowling Green,Binders,5.55
+Lakewood,Fasteners,16.43
+Pasco,Art,154.86
+Pasco,Chairs,975.92
+Pasco,Storage,485.88
+Oak Park,Art,10.19
+Morristown,Binders,1793.98
+Durham,Storage,61.57
+Durham,Art,73.46
+Pensacola,Binders,2.21
+Henderson,Accessories,2249.91
+Anaheim,Binders,79.25
+Anaheim,Art,13.34
+Marietta,Chairs,182.67
+Marietta,Accessories,101.7
+Marietta,Storage,1194.66
+Parma,Chairs,962.09
+Gresham,Binders,26.35
+Anaheim,Supplies,32.56
+Concord,Binders,61.12
+Concord,Storage,168.65
+League City,Art,44.72
+League City,Chairs,383.21
+Gaithersburg,Bookcases,173.94
+Gaithersburg,Phones,231.98
+Huntsville,Fasteners,3.62
+Fairfield,Paper,20.04
+Aurora,Envelopes,140.56
+Lehi,Phones,16.78
+Tuscaloosa,Binders,33.74
+Wilmington,Chairs,1268.82
+Wilmington,Bookcases,654.9
+Lafayette,Storage,156.98
+Redondo Beach,Paper,96.08
+Redondo Beach,Fasteners,4.36
+North Las Vegas,Art,65.64
+North Las Vegas,Paper,35.88
+Carrollton,Binders,3.32
+Carrollton,Fasteners,18.86
+Fort Lauderdale,Binders,18.26
+Providence,Accessories,199.98
+Huntington Beach,Labels,5.22
+Nashville,Fasteners,7.24
+Memphis,Envelopes,55.94
+Raleigh,Appliances,495.78
+Raleigh,Binders,13.09
+Newport News,Supplies,69.5
+Phoenix,Bookcases,209.98
+Oklahoma City,Chairs,813.29
+Vineland,Chairs,212.94
+Vineland,Appliances,26.49
+Milwaukee,Bookcases,687.4
+Naperville,Accessories,239.96
+Moreno Valley,Paper,26.4
+Moreno Valley,Storage,46.67
+Georgetown,Phones,699.98
+Georgetown,Storage,357.37
+Minneapolis,Phones,377.97
+Burlington,Tables,1205.85
+Trenton,Copiers,549.99
+Trenton,Appliances,167.53
+Trenton,Envelopes,38.34
+Trenton,Phones,191.98
+Loveland,Paper,7.97
+Loveland,Envelopes,8.78
+Loveland,Fasteners,3.02
+Woonsocket,Storage,51.45
+Deltona,Chairs,186.3
+Carlsbad,Binders,11.42
+Oceanside,Fasteners,34.44
+Oceanside,Machines,629.93
+Lafayette,Accessories,99.98
+Anaheim,Furnishings,116.5
+Oklahoma City,Furnishings,44.02
+Mount Vernon,Paper,51.55
+Chandler,Furnishings,8.54
+Chandler,Chairs,842.38
+Long Beach,Phones,143.98
+Helena,Storage,39.9
+Kirkwood,Binders,28.4
+Kirkwood,Furnishings,212.94
+Peoria,Phones,87.15
+Taylor,Chairs,301.96
+Midland,Art,3.9
+Midland,Paper,14.34
+Midland,Chairs,563.94
+Midland,Storage,299.17
+Pueblo,Art,3.41
+Waco,Binders,2.07
+Waco,Bookcases,328.4
+Woonsocket,Paper,45.36
+Woonsocket,Binders,45.78
+Kent,Envelopes,158.13
+Round Rock,Supplies,3930.07
+Round Rock,Fasteners,2.3
+Round Rock,Phones,431.98
+Round Rock,Accessories,41.72
+Auburn,Labels,256.12
+Auburn,Envelopes,17.28
+Roseville,Envelopes,218.69
+Fresno,Furnishings,35.7
+Texarkana,Chairs,605.34
+Indianapolis,Appliances,1230.08
+Columbia,Bookcases,362.94
+Frankfort,Appliances,20.77
+Virginia Beach,Appliances,182.91
+Bethlehem,Chairs,99.37
+Bethlehem,Furnishings,33.57
+Rancho Cucamonga,Paper,38.88
+Burlington,Chairs,715.2
+Virginia Beach,Paper,105.52
+Louisville,Envelopes,21.24
+Louisville,Bookcases,89.99
+Miami,Storage,10.95
+Medina,Tables,51.59
+Roseville,Labels,26.77
+Yonkers,Furnishings,14.89
+Yonkers,Phones,543.92
+Garland,Furnishings,8.54
+Oceanside,Phones,39.98
+Greenville,Labels,9.22
+Greenville,Supplies,28.05
+Greensboro,Chairs,142.72
+Knoxville,Furnishings,19.76
+Knoxville,Paper,18.14
+Knoxville,Binders,30.8
+Knoxville,Tables,1321.35
+Grand Island,Paper,15.96
+Scottsdale,Paper,181.92
+Oceanside,Envelopes,12.24
+Oceanside,Accessories,456.97
+Woodbury,Binders,32.34
+Woodbury,Paper,39.9
+Park Ridge,Paper,143.86
+Wichita,Furnishings,70.56
+Wichita,Appliances,81.96
+Oak Park,Furnishings,290.43
+Rogers,Binders,40.41
+Wilmington,Labels,16.23
+Clovis,Binders,10.08
+Clovis,Accessories,101.34
+Wichita,Phones,224.75
+Waterbury,Art,6.68
+Lakewood,Appliances,161.57
+Chandler,Art,9.12
+Palm Coast,Furnishings,116.37
+Jupiter,Art,2.06
+Olathe,Supplies,357.93
+Olathe,Accessories,57.4
+Olathe,Binders,331.96
+Olathe,Furnishings,40.56
+Sparks,Supplies,86.2
+Rockford,Paper,106.94
+Edmonds,Fasteners,19.6
+Edmonds,Furnishings,74.71
+Asheville,Storage,16.27
+Scottsdale,Bookcases,181.47
+Hamilton,Appliances,123.92
+Parker,Furnishings,13.36
+Parker,Storage,78.26
+Parker,Bookcases,102.02
+Fremont,Storage,750.68
+Maple Grove,Labels,44.4
+Maple Grove,Storage,84.55
+Maple Grove,Paper,17.94
+Miami,Chairs,273.55
+Santa Clara,Binders,52.74
+Santa Clara,Appliances,58.24
+Santa Barbara,Fasteners,1.81
+Cedar Hill,Paper,115.3
+Omaha,Phones,149.95
+Norfolk,Binders,17.43
+Tucson,Tables,455.97
+Draper,Furnishings,25.16
+Draper,Phones,126.56
+Montgomery,Furnishings,15.76
+North Las Vegas,Storage,1325.85
+North Las Vegas,Labels,14.94
+Atlanta,Copiers,2999.95
+Pasadena,Furnishings,66.36
+Lancaster,Fasteners,10.9
+Great Falls,Binders,6.1
+Lakewood,Chairs,512.96
+Lawrence,Phones,391.98
+Baltimore,Supplies,25.02
+Greensboro,Furnishings,17.09
+La Crosse,Accessories,499.95
+La Crosse,Art,3.04
+La Crosse,Chairs,201.96
+La Crosse,Furnishings,68.64
+Chesapeake,Accessories,234.45
+Chesapeake,Tables,1454.58
+Ann Arbor,Binders,152.8
+La Mesa,Binders,82.56
+La Mesa,Accessories,284.97
+Dearborn,Furnishings,60.84
+Morristown,Furnishings,74.45
+Apple Valley,Envelopes,57.9
+Apple Valley,Storage,69.93
+Apple Valley,Bookcases,1194.16
+Salem,Tables,377.45
+Pocatello,Furnishings,195.18
+Pocatello,Phones,221.38
+Holland,Fasteners,20.44
+Holland,Paper,109.92
+Broken Arrow,Binders,9.13
+Broken Arrow,Paper,6.48
+Athens,Paper,15.84
+Athens,Phones,628.01
+Athens,Appliances,154.9
+Apopka,Fasteners,14.32
+Apopka,Furnishings,129.89
+Apopka,Envelopes,48.94
+Baltimore,Phones,89.97
+Laredo,Labels,11.84
+Cleveland,Envelopes,40.75
+Marion,Tables,842.76
+Fairfield,Supplies,11.64
+Ann Arbor,Accessories,619.95
+Ann Arbor,Phones,29.16
+Ann Arbor,Envelopes,57.96
+Ann Arbor,Appliances,29.4
+Madison,Accessories,178.11
+Madison,Appliances,1089.75
+Madison,Labels,61.06
+Madison,Bookcases,459.92
+Madison,Paper,27.52
+Milford,Bookcases,638.82
+Milford,Supplies,30.69
+Milford,Furnishings,25.16
+Fairfield,Machines,532.72
+Fairfield,Storage,579.51
+Greenville,Phones,249.58
+Greenville,Accessories,42.34
+Buffalo Grove,Tables,355.45
+Fort Worth,Copiers,1999.96
+Hialeah,Machines,76.49
+Lake Forest,Appliances,542.94
+Lake Forest,Furnishings,54.92
+Redding,Phones,333.58
+Leominster,Labels,3.15
+Springfield,Copiers,2749.96
+Waco,Storage,23.97
+Auburn,Binders,15.53
+Chico,Art,2.21
+Chico,Envelopes,15.52
+Chico,Paper,36.44
+Springfield,Bookcases,215.35
+Springfield,Supplies,2101.56
+Bakersfield,Fasteners,35.0
+Bakersfield,Chairs,72.78
+Bakersfield,Appliances,97.84
+Bakersfield,Furnishings,46.67
+El Paso,Paper,23.46
+Thousand Oaks,Phones,15.98
+Knoxville,Appliances,87.17
+Utica,Phones,199.95
+Utica,Binders,15.0
+Utica,Labels,52.34
+Richmond,Tables,292.1
+Concord,Labels,15.45
+Roseville,Appliances,715.64
+Roseville,Storage,483.27
+Roseville,Copiers,549.99
+Concord,Bookcases,239.67
+Conway,Tables,301.96
+Meriden,Appliances,79.47
+Meriden,Chairs,1133.35
+Cheyenne,Chairs,1603.14
+Anaheim,Tables,1092.81
+Bloomington,Furnishings,84.75
+Jonesboro,Binders,58.81
+Lawrence,Paper,18.69
+Cranston,Storage,317.75
+Owensboro,Paper,45.68
+Owensboro,Supplies,25.5
+Bellingham,Accessories,1099.5
+Decatur,Tables,1215.92
+Fayetteville,Labels,7.31
+Plano,Labels,11.54
+Southaven,Envelopes,42.68
+Southaven,Appliances,262.24
+Southaven,Binders,234.36
+Reading,Furnishings,163.94
+Reading,Bookcases,521.96
+Overland Park,Storage,360.38
+Overland Park,Paper,13.56
+Tulsa,Tables,429.9
+Tulsa,Storage,176.4
+Hattiesburg,Furnishings,185.58
+Hattiesburg,Binders,43.08
+Hattiesburg,Storage,87.92
+Hattiesburg,Paper,245.94
+Hattiesburg,Bookcases,504.9
+Caldwell,Chairs,338.35
+Caldwell,Paper,58.64
+New Bedford,Phones,128.85
+Florence,Furnishings,127.95
+Kenner,Appliances,17.34
+Kenner,Accessories,71.98
+Cedar Hill,Envelopes,7.08
+Lancaster,Appliances,331.49
+Nashua,Furnishings,21.12
+Carrollton,Appliances,19.57
+Georgetown,Furnishings,42.6
+Georgetown,Binders,113.94
+Georgetown,Art,5.28
+Sierra Vista,Furnishings,14.37
+Knoxville,Chairs,266.36
+Minneapolis,Tables,692.94
+Milwaukee,Art,57.75
+Edinburg,Binders,2.07
+Edinburg,Paper,83.84
+Bartlett,Supplies,88.96
+Austin,Supplies,5.89
+Lubbock,Furnishings,25.16
+Loveland,Binders,1.19
+Grand Prairie,Appliances,19.43
+Grand Prairie,Accessories,65.44
+Parma,Appliances,110.1
+Parma,Fasteners,16.75
+Redwood City,Binders,41.9
+Virginia Beach,Accessories,71.61
+Virginia Beach,Fasteners,3.76
+Lebanon,Paper,163.96
+Chula Vista,Art,192.8
+Mcallen,Accessories,34.56
+Mcallen,Appliances,73.16
+Santa Maria,Storage,115.44
+Manchester,Paper,274.8
+Manchester,Phones,257.98
+Manchester,Art,119.04
+San Jose,Art,11.76
+Tulsa,Envelopes,81.54
+Lakeland,Labels,11.81
+Lakeland,Accessories,170.24
+Portland,Chairs,291.17
+Des Plaines,Phones,383.84
+Evanston,Copiers,1439.97
+Evanston,Accessories,43.56
+Apple Valley,Chairs,563.92
+Marion,Furnishings,14.91
+Marion,Storage,51.17
+Longview,Fasteners,18.24
+Longview,Appliances,76.12
+Redondo Beach,Envelopes,7.64
+Trenton,Storage,20.86
+Hendersonville,Furnishings,72.7
+Hendersonville,Art,12.26
+Hendersonville,Storage,218.35
+Portland,Bookcases,66.29
+Irving,Phones,88.78
+Waterloo,Art,30.32
+Bellevue,Supplies,25.35
+Marietta,Paper,58.32
+Marietta,Phones,200.97
+Cambridge,Phones,311.98
+Cambridge,Binders,22.45
+Palatine,Accessories,116.31
+Cincinnati,Labels,5.9
+Lakewood,Tables,661.18
+Lebanon,Phones,239.98
+Chico,Chairs,675.15
+Chico,Furnishings,200.33
+Salem,Chairs,701.96
+Beverly,Appliances,1737.18
+Beverly,Storage,704.25
+Beverly,Paper,141.76
+Chicago,Envelopes,9.91
+Corpus Christi,Paper,40.6
+Eugene,Supplies,17.58
+Eugene,Chairs,377.57
+Eugene,Paper,31.56
+Eugene,Labels,629.18
+Oxnard,Furnishings,79.95
+Laguna Niguel,Phones,39.96
+Laguna Niguel,Paper,23.52
+Mount Vernon,Binders,7.75
+Midland,Envelopes,15.28
+Westland,Furnishings,143.84
+Westland,Binders,24.38
+Westland,Appliances,247.72
+Renton,Binders,150.8
+Renton,Machines,1039.99
+Renton,Paper,51.84
+Waterbury,Accessories,79.98
+Waterbury,Storage,162.38
+Chandler,Fasteners,49.79
+Concord,Phones,1225.57
+Lafayette,Binders,34.37
+Spokane,Chairs,569.57
+Spokane,Storage,143.0
+Hollywood,Binders,13.54
+Chandler,Paper,83.88
+Tulsa,Supplies,21.96
+Draper,Accessories,111.93
+Pocatello,Storage,477.15
+Plano,Tables,932.91
+Meriden,Binders,10.76
+Meriden,Paper,79.92
+Glenview,Phones,158.38
+Lebanon,Storage,84.96
+Providence,Furnishings,72.42
+Pembroke Pines,Appliances,14.84
+Pembroke Pines,Phones,503.96
+Pembroke Pines,Bookcases,241.57
+Orlando,Bookcases,289.57
+Orlando,Storage,39.72
+Orlando,Phones,244.77
+Medina,Binders,19.24
+Warwick,Copiers,1999.96
+El Paso,Labels,6.94
+El Paso,Binders,4.43
+Buffalo,Binders,2152.78
+Buffalo,Bookcases,4007.84
+Knoxville,Storage,98.35
+Cleveland,Labels,5.04
+Elmhurst,Chairs,634.12
+Arlington,Appliances,34.95
+Lawrence,Tables,360.42
+Lawrence,Chairs,872.32
+Waco,Art,7.12
+Plainfield,Machines,319.92
+Salem,Furnishings,8.8
+Salem,Bookcases,302.94
+Delray Beach,Labels,9.91
+Clinton,Chairs,256.41
+Commerce City,Storage,146.35
+Santa Ana,Fasteners,5.94
+Santa Ana,Paper,32.4
+Santa Ana,Phones,177.56
+Santa Ana,Chairs,484.7
+Santa Ana,Machines,371.98
+Texas City,Tables,295.83
+Texas City,Chairs,199.3
+Bellevue,Paper,12.96
+Wilson,Binders,6.89
+Lorain,Tables,1421.66
+Indianapolis,Accessories,79.78
+Redmond,Phones,289.16
+Redmond,Appliances,133.47
+Arlington,Copiers,319.98
+Arlington,Fasteners,45.92
+Gilbert,Accessories,31.99
+Gilbert,Envelopes,10.64
+Gilbert,Tables,386.91
+Virginia Beach,Tables,356.85
+Virginia Beach,Envelopes,251.58
+Irving,Paper,219.84
+Vineland,Furnishings,42.85
+Vineland,Labels,6.16
+Vineland,Supplies,17.0
+Vineland,Accessories,87.4
+Charlottesville,Furnishings,67.96
+Lawrence,Machines,83.9
+Meriden,Storage,10.9
+Bloomington,Art,33.73
+Wilson,Furnishings,163.14
+Fort Lauderdale,Phones,318.22
+Rio Rancho,Chairs,557.1
+Skokie,Accessories,39.26
+Skokie,Art,95.23
+Hot Springs,Fasteners,30.0
+Hot Springs,Paper,25.92
+Hot Springs,Furnishings,159.92
+Goldsboro,Appliances,34.94
+Nashua,Fasteners,14.82
+Smyrna,Binders,67.19
+Smyrna,Chairs,643.14
+Dover,Paper,32.89
+Paterson,Chairs,182.22
+Paterson,Appliances,111.04
+Paterson,Binders,108.78
+Lakewood,Storage,81.96
+Greensboro,Art,48.73
+Baltimore,Bookcases,344.94
+Atlanta,Furnishings,77.82
+Sacramento,Furnishings,35.41
+Phoenix,Machines,269.97
+Phoenix,Accessories,89.58
+Montgomery,Envelopes,98.46
+Montgomery,Tables,358.58
+Lafayette,Copiers,17499.95
+Santa Ana,Tables,146.04
+Montebello,Accessories,27.88
+Thousand Oaks,Labels,152.65
+Thousand Oaks,Furnishings,22.72
+Vineland,Art,11.12
+Torrance,Appliances,1640.7
+Torrance,Phones,371.2
+El Cajon,Chairs,432.81
+Frankfort,Paper,76.86
+Little Rock,Storage,215.0
+Little Rock,Envelopes,182.94
+Beaumont,Binders,10.78
+Beaumont,Accessories,219.97
+Minneapolis,Chairs,2567.84
+Naperville,Chairs,602.65
+Huntington Beach,Copiers,2399.96
+Brentwood,Storage,275.62
+North Charleston,Furnishings,14.76
+West Palm Beach,Phones,55.98
+Santa Barbara,Appliances,356.79
+El Paso,Accessories,95.98
+Dallas,Machines,479.99
+Longview,Furnishings,24.85
+Gilbert,Labels,5.9
+Fort Lauderdale,Appliances,1158.12
+Abilene,Appliances,1.39
+Hampton,Appliances,44.43
+Hampton,Phones,226.2
+Hampton,Furnishings,186.54
+Hampton,Art,146.88
+Las Vegas,Appliances,47.99
+Louisville,Appliances,208.44
+Louisville,Supplies,25.76
+Normal,Chairs,366.74
+Salinas,Bookcases,148.26
+Lakeland,Copiers,479.98
+Concord,Tables,2198.62
+Aurora,Art,14.58
+Anaheim,Paper,120.34
+Anaheim,Accessories,119.96
+Anaheim,Chairs,540.82
+Anaheim,Appliances,83.42
+Rochester,Appliances,32.67
+Fresno,Paper,14.94
+Mcallen,Art,41.11
+Mcallen,Paper,10.37
+Mcallen,Supplies,13.34
+Chester,Supplies,190.9
+Sparks,Art,79.36
+Santa Ana,Storage,421.1
+Nashville,Accessories,35.17
+Miami,Bookcases,290.35
+Saint Charles,Accessories,375.48
+Saint Charles,Furnishings,41.05
+Virginia Beach,Furnishings,225.82
+Tuscaloosa,Chairs,141.96
+Orange,Labels,4.91
+Houston,Copiers,2399.96
+Athens,Art,12.78
+Hialeah,Art,30.98
+Camarillo,Labels,14.73
+San Jose,Envelopes,98.94
+Hollywood,Labels,9.22
+Superior,Appliances,364.74
+Superior,Furnishings,47.4
+Superior,Storage,49.76
+Superior,Paper,337.23
+Superior,Phones,125.99
+Thousand Oaks,Art,14.7
+Greensboro,Supplies,20.61
+Helena,Phones,339.96
+Helena,Furnishings,63.98
+Yuma,Accessories,185.53
+Yuma,Machines,599.99
+Cleveland,Art,22.29
+Oklahoma City,Accessories,6.9
+Nashville,Machines,649.0
+Bellevue,Furnishings,20.24
+Des Plaines,Tables,292.1
+Des Plaines,Furnishings,8.54
+Des Plaines,Bookcases,424.12
+Des Plaines,Binders,2.89
+Des Plaines,Storage,381.72
+Boynton Beach,Chairs,97.18
+San Jose,Accessories,72.0
+Park Ridge,Phones,286.4
+Hillsboro,Paper,19.61
+Hillsboro,Binders,4.16
+Pasco,Appliances,400.8
+Pasco,Binders,28.79
+Burbank,Furnishings,111.0
+Burbank,Machines,1279.97
+Burbank,Storage,1856.19
+Atlanta,Chairs,67.88
+Modesto,Accessories,111.79
+Raleigh,Labels,4.61
+Garden City,Phones,257.98
+Long Beach,Storage,153.78
+Fayetteville,Art,15.08
+Omaha,Storage,206.91
+Omaha,Labels,14.4
+Omaha,Supplies,16.9
+Chattanooga,Chairs,390.37
+Camarillo,Bookcases,509.96
+Camarillo,Furnishings,122.91
+Camarillo,Chairs,409.96
+Toledo,Tables,172.11
+Tigard,Accessories,35.36
+Tigard,Furnishings,13.59
+Phoenix,Fasteners,4.46
+Oxnard,Binders,16.14
+Oxnard,Art,99.2
+Covington,Furnishings,46.9
+Brownsville,Paper,10.69
+Brownsville,Storage,237.1
+Bolingbrook,Phones,148.48
+Waynesboro,Bookcases,523.26
+Visalia,Art,14.88
+Visalia,Paper,34.24
+Visalia,Storage,261.74
+Lehi,Copiers,1499.95
+Huntington Beach,Envelopes,12.78
+Fargo,Binders,25.9
+Dover,Tables,1053.16
+Westminster,Binders,11.95
+Westminster,Furnishings,51.75
+Westminster,Fasteners,4.96
+Westminster,Art,71.92
+Westminster,Accessories,98.36
+Atlantic City,Envelopes,23.36
+Richmond,Copiers,1399.98
+Gresham,Envelopes,21.73
+Longmont,Furnishings,266.35
+Longmont,Chairs,483.14
+Greenville,Chairs,196.78
+Greenville,Bookcases,231.92
+Denver,Bookcases,166.62
+Huntsville,Binders,11.21
+Long Beach,Furnishings,31.68
+Newport News,Tables,591.32
+Newport News,Art,2.84
+Omaha,Chairs,563.94
+Morristown,Appliances,2625.12
+Morristown,Art,17.94
+Rockford,Art,128.74
+Garden City,Paper,9.54
+Garden City,Fasteners,5.81
+Garden City,Art,5.76
+Orlando,Binders,5.36
+Watertown,Paper,18.54
+Brownsville,Envelopes,335.72
+Brownsville,Phones,251.94
+Brownsville,Chairs,127.3
+Pueblo,Machines,703.71
+Pueblo,Accessories,67.96
+Greenville,Machines,1299.99
+Marion,Envelopes,19.87
+Las Vegas,Furnishings,80.96
+Las Vegas,Paper,36.24
+Fremont,Binders,53.9
+Bossier City,Furnishings,129.92
+Providence,Copiers,5399.91
+Everett,Accessories,218.49
+Everett,Furnishings,38.97
+Everett,Tables,446.07
+Rancho Cucamonga,Appliances,152.94
+Midland,Appliances,186.73
+Suffolk,Appliances,179.94
+Suffolk,Tables,872.94
+Suffolk,Paper,21.43
+Brentwood,Labels,88.8
+Lawrence,Copiers,1199.98
+Lawrence,Supplies,25.71
+Orem,Art,28.83
+Cleveland,Appliances,286.26
+El Paso,Art,24.8
+Tallahassee,Accessories,431.98
+Waterbury,Binders,7.96
+Waterbury,Phones,566.97
+Buffalo,Phones,43.6
+Buffalo,Furnishings,177.43
+Portland,Art,63.96
+Riverside,Phones,1039.73
+Lancaster,Machines,4499.98
+Moreno Valley,Appliances,10.98
+Moreno Valley,Fasteners,7.86
+Moreno Valley,Binders,37.06
+Chesapeake,Appliances,200.82
+Charlotte,Supplies,185.38
+Amarillo,Phones,307.17
+Middletown,Binders,18.37
+Franklin,Labels,12.0
+Raleigh,Art,47.62
+Clinton,Tables,550.43
+North Las Vegas,Binders,4535.98
+Rome,Chairs,90.88
+West Palm Beach,Art,13.12
+Des Moines,Envelopes,36.03
+Des Moines,Tables,1184.72
+Pharr,Tables,124.4
+Irving,Storage,15.8
+Hattiesburg,Appliances,320.64
+Cuyahoga Falls,Binders,10.37
+Mesa,Chairs,441.92
+Mesa,Bookcases,127.76
+Lake Forest,Labels,6.16
+Lake Forest,Chairs,915.14
+Lake Forest,Paper,53.19
+Portland,Appliances,11.18
+Thornton,Art,13.34
+Thornton,Paper,10.32
+Thornton,Supplies,29.13
+Thornton,Furnishings,16.72
+Davis,Paper,32.4
+Wheeling,Binders,44.32
+Wheeling,Paper,447.84
+Memphis,Appliances,272.05
+Memphis,Accessories,1.58
+Morgan Hill,Tables,268.7
+Morgan Hill,Art,21.92
+Morgan Hill,Storage,48.72
+Morgan Hill,Bookcases,205.67
+Garland,Art,30.38
+Hollywood,Phones,383.96
+Brentwood,Envelopes,23.36
+Brentwood,Binders,117.49
+El Paso,Fasteners,18.84
+El Paso,Furnishings,63.55
+El Paso,Storage,250.85
+Revere,Storage,66.96
+Chico,Fasteners,14.9
+Chico,Appliances,15.8
+Chico,Tables,206.35
+Chico,Phones,7.99
+Miramar,Storage,81.36
+Miramar,Binders,20.23
+Miramar,Appliances,389.06
+Miramar,Paper,31.1
+Clifton,Appliances,81.92
+Clifton,Furnishings,254.9
+Sheboygan,Labels,31.4
+Sheboygan,Storage,14.97
+Sheboygan,Accessories,1.98
+Boca Raton,Binders,39.94
+Boca Raton,Accessories,18.46
+Aurora,Bookcases,145.76
+Dubuque,Phones,263.96
+Lowell,Furnishings,27.83
+Marysville,Fasteners,93.36
+Lancaster,Art,30.82
+Modesto,Phones,52.79
+Saint Louis,Appliances,83.9
+Amarillo,Furnishings,23.08
+Cambridge,Accessories,63.88
+Cambridge,Furnishings,26.72
+Huntsville,Chairs,528.43
+Huntsville,Appliances,15.22
+East Point,Furnishings,27.42
+East Point,Binders,165.98
+East Point,Accessories,75.0
+Wilmington,Appliances,28.08
+Yuma,Art,10.5
+San Angelo,Appliances,11.65
+Garden City,Storage,33.29
+Modesto,Chairs,161.57
+Riverside,Accessories,41.94
+Riverside,Storage,535.41
+Lakeland,Tables,562.29
+Lawton,Appliances,471.9
+Lawton,Art,3.52
+Santa Ana,Labels,20.16
+Rapid City,Binders,10.68
+Rapid City,Bookcases,141.96
+Middletown,Accessories,238.0
+Baltimore,Tables,239.37
+Milford,Accessories,199.75
+Belleville,Chairs,227.96
+Rockville,Paper,19.44
+Rockville,Binders,7.38
+Durham,Binders,6.05
+Durham,Appliances,98.35
+Durham,Furnishings,335.74
+Santa Barbara,Paper,8.96
+Knoxville,Accessories,89.57
+Daytona Beach,Tables,191.52
+Daytona Beach,Art,2.62
+Nashville,Appliances,79.09
+Murfreesboro,Binders,3.26
+Sandy Springs,Art,14.28
+Mount Vernon,Storage,1085.42
+Saint Charles,Machines,600.53
+Saint Charles,Art,59.9
+Miami,Appliances,211.25
+Miami,Supplies,5.55
+Arlington,Envelopes,26.55
+Detroit,Envelopes,180.96
+Bakersfield,Tables,486.37
+League City,Fasteners,3.49
+League City,Paper,16.03
+Hialeah,Storage,61.68
+Hialeah,Phones,158.38
+Andover,Storage,11.21
+Andover,Chairs,354.9
+Andover,Paper,17.94
+Andover,Binders,51.8
+Hesperia,Chairs,436.7
+Chesapeake,Paper,32.4
+Knoxville,Labels,31.9
+Athens,Furnishings,186.54
+Great Falls,Phones,105.58
+Great Falls,Accessories,217.44
+El Paso,Appliances,5.43
+El Paso,Tables,913.43
+Kissimmee,Phones,751.98
+Santa Clara,Supplies,27.36
+Pompano Beach,Appliances,64.38
+Shelton,Accessories,59.97
+Shelton,Paper,13.36
+Orange,Appliances,76.12
+Akron,Fasteners,17.18
+Danbury,Furnishings,27.46
+Franklin,Appliances,461.36
+Marion,Paper,94.85
+Corpus Christi,Fasteners,6.05
+Corpus Christi,Binders,8.55
+Cranston,Appliances,2.22
+Bristol,Storage,95.94
+Holland,Labels,7.5
+Norwich,Appliances,370.14
+Noblesville,Tables,2678.94
+Clarksville,Bookcases,387.14
+Clarksville,Accessories,45.41
+Clarksville,Furnishings,77.95
+Clarksville,Labels,3.0
+Hollywood,Storage,9.95
+York,Paper,65.58
+Grand Rapids,Binders,69.3
+Arlington,Machines,8749.95
+Lubbock,Paper,34.99
+Lubbock,Copiers,479.98
+Longmont,Accessories,165.6
+Yonkers,Art,59.52
+Yonkers,Supplies,18.62
+Florence,Art,26.64
+Frisco,Furnishings,30.34
+Paterson,Furnishings,8.92
+Plantation,Accessories,447.94
+Plantation,Storage,150.41
+Sanford,Binders,4.84
+Sanford,Furnishings,220.7
+The Colony,Phones,67.18
+The Colony,Paper,15.23
+Hempstead,Copiers,479.98
+Port Saint Lucie,Appliances,14.34
+Louisville,Labels,2.61
+San Marcos,Furnishings,10.33
+San Marcos,Paper,10.37
+San Marcos,Accessories,20.78
+San Marcos,Storage,66.96
+Escondido,Binders,17.25
+Greeley,Envelopes,18.69
+Greeley,Furnishings,11.66
+Reno,Phones,475.94
+New Bedford,Accessories,23.18
+Oxnard,Accessories,82.95
+Edmonds,Labels,7.38
+Edmonds,Binders,26.94
+Edmonds,Paper,81.98
+Bethlehem,Bookcases,177.45
+Bethlehem,Binders,1369.76
+Bethlehem,Appliances,9.48
+Nashville,Chairs,97.42
+Fort Lauderdale,Bookcases,723.92
+Decatur,Fasteners,18.37
+Decatur,Furnishings,32.06
+Mansfield,Tables,517.4
+Watertown,Storage,96.36
+Nashville,Phones,1239.96
+Nashville,Tables,120.96
+Reno,Fasteners,4.71
+Elyria,Binders,1.82
+Murfreesboro,Accessories,38.74
+Murfreesboro,Bookcases,131.1
+Murfreesboro,Storage,22.51
+Saint Louis,Supplies,52.59
+Woodbury,Storage,535.41
+Chattanooga,Binders,5.83
+Hillsboro,Furnishings,11.03
+Hillsboro,Accessories,53.04
+Cambridge,Art,17.12
+Cambridge,Paper,59.94
+San Diego,Machines,686.4
+Toledo,Labels,17.71
+Atlanta,Envelopes,125.36
+Sacramento,Storage,14.03
+Sacramento,Supplies,27.96
+Twin Falls,Binders,20.42
+Twin Falls,Tables,1128.39
+Monroe,Bookcases,77.73
+Orem,Paper,12.96
+Burlington,Phones,1294.75
+Oklahoma City,Bookcases,341.96
+Utica,Furnishings,40.48
+Orlando,Copiers,959.98
+Orlando,Art,55.98
+Reading,Envelopes,8.86
+Saint Charles,Paper,11.06
+Harrisonburg,Furnishings,39.96
+Sandy Springs,Storage,15.51
+Sandy Springs,Labels,15.75
+Meridian,Binders,21.31
+Sacramento,Accessories,209.94
+Paterson,Labels,31.05
+Irving,Supplies,185.38
+Irving,Appliances,58.92
+Morristown,Machines,480.0
+Morristown,Storage,34.05
+Durham,Phones,15.98
+Durham,Paper,14.35
+Stockton,Furnishings,629.64
+Everett,Labels,21.93
+Chattanooga,Accessories,95.98
+Chattanooga,Phones,143.93
+Chattanooga,Labels,4.93
+Austin,Appliances,48.78
+Jamestown,Accessories,159.98
+Coral Gables,Phones,52.68
+Coral Gables,Furnishings,11.57
+Hickory,Binders,4.57
+Rockford,Phones,1439.97
+Rockford,Tables,626.1
+Huntsville,Tables,410.68
+Green Bay,Furnishings,17.85
+North Miami,Supplies,7.63
+Portland,Machines,179.99
+New Bedford,Paper,19.44
+Jacksonville,Bookcases,155.46
+Romeoville,Binders,8.95
+Columbia,Tables,1875.26
+Hollywood,Appliances,152.24
+Sandy Springs,Accessories,5.95
+Sandy Springs,Paper,15.24
+Spokane,Accessories,239.94
+Spokane,Art,23.84
+Milwaukee,Storage,65.14
+Pocatello,Paper,17.64
+Pocatello,Binders,17.04
+Fort Collins,Furnishings,98.33
+Marlborough,Furnishings,103.32
+Chandler,Tables,73.92
+Hollywood,Furnishings,337.09
+Sunnyvale,Binders,5.98
+Sunnyvale,Accessories,169.95
+Sunnyvale,Art,29.95
+Sunnyvale,Labels,44.4
+Santa Ana,Supplies,21.96
+Harrisonburg,Accessories,23.08
+Des Moines,Chairs,215.98
+Lakewood,Supplies,27.2
+Suffolk,Storage,146.73
+Cary,Phones,246.17
+Troy,Bookcases,482.94
+Haltom City,Supplies,22.37
+Haltom City,Paper,32.37
+Haltom City,Accessories,207.98
+Las Cruces,Art,8.28
+Cleveland,Bookcases,208.72
+Laurel,Furnishings,27.46
+Laurel,Appliances,125.13
+Wilson,Storage,90.77
+Wilson,Paper,10.27
+Saint Petersburg,Binders,18.3
+Buffalo Grove,Accessories,475.94
+Las Vegas,Phones,1123.13
+Burlington,Storage,1564.29
+Avondale,Art,15.52
+Avondale,Accessories,62.72
+Bangor,Appliances,101.96
+Bangor,Paper,259.74
+Bangor,Accessories,255.42
+Hendersonville,Binders,8.11
+Eau Claire,Bookcases,405.86
+Eau Claire,Chairs,680.01
+Oxnard,Paper,47.9
+Oxnard,Storage,1112.94
+Oxnard,Envelopes,22.92
+Kent,Paper,19.44
+Westminster,Paper,24.56
+Westminster,Chairs,207.18
+Westminster,Appliances,858.13
+Allentown,Supplies,3.49
+Allentown,Accessories,21.73
+Allentown,Storage,663.07
+Allentown,Binders,99.59
+Allentown,Paper,49.57
+Avondale,Supplies,47.99
+San Jose,Phones,771.18
+San Jose,Supplies,41.04
+Perth Amboy,Bookcases,120.98
+Perth Amboy,Binders,315.98
+Milford,Art,15.48
+Milford,Paper,51.84
+Bloomington,Accessories,39.82
+Burlington,Envelopes,4.66
+Odessa,Appliances,13.76
+Minneapolis,Envelopes,15.28
+Lafayette,Labels,11.07
+Lafayette,Tables,795.25
+Bryan,Binders,5.84
+Bryan,Storage,52.75
+Tallahassee,Art,6.58
+Marion,Binders,115.84
+Pine Bluff,Accessories,199.95
+Pine Bluff,Paper,12.96
+Columbia,Labels,14.94
+Aberdeen,Supplies,25.5
+Freeport,Chairs,102.58
+Albuquerque,Art,255.85
+Delray Beach,Storage,184.7
+Delray Beach,Accessories,47.92
+West Palm Beach,Paper,72.22
+Fort Collins,Labels,11.7
+Hagerstown,Binders,43.8
+Mcallen,Phones,171.37
+Mcallen,Chairs,56.69
+Santa Fe,Art,8.4
+Edmonds,Phones,455.71
+Georgetown,Appliances,195.68
+Georgetown,Fasteners,14.2
+Coral Springs,Bookcases,314.35
+Coral Springs,Labels,4.61
+Troy,Tables,455.97
+Moreno Valley,Furnishings,442.34
+East Orange,Accessories,31.8
+Eau Claire,Storage,32.56
+Tampa,Chairs,595.14
+Mesa,Furnishings,120.58
+Arlington Heights,Art,14.11
+Peoria,Accessories,141.44
+Coppell,Phones,95.84
+Redmond,Labels,12.32
+Chattanooga,Machines,91.47
+Greensboro,Accessories,27.19
+Oswego,Fasteners,13.16
+Oswego,Binders,154.41
+Paterson,Fasteners,6.54
+Broken Arrow,Tables,1592.85
+Mission Viejo,Accessories,120.0
+Mission Viejo,Appliances,8.67
+Greenwood,Paper,67.8
+Rome,Art,17.51
+Dearborn Heights,Art,20.3
+Dearborn Heights,Binders,40.2
+Dearborn Heights,Storage,689.82
+Appleton,Accessories,1649.75
+Bowling Green,Phones,26.98
+Bowling Green,Labels,6.91
+Beaumont,Storage,12.77
+Broomfield,Furnishings,68.43
+Fremont,Phones,79.96
+Pomona,Furnishings,31.56
+Wheeling,Art,121.54
+Mansfield,Paper,41.47
+Jonesboro,Paper,239.5
+Virginia Beach,Supplies,34.2
+Woodland,Phones,239.98
+Bowling Green,Copiers,899.98
+Bowling Green,Art,86.35
+Everett,Storage,79.45
+Coon Rapids,Storage,221.16
+Coon Rapids,Phones,281.97
+Pomona,Labels,18.75
+Santa Barbara,Phones,1750.76
+Santa Barbara,Accessories,26.96
+San Clemente,Binders,18.09
+San Clemente,Envelopes,71.97
+Decatur,Labels,15.44
+Inglewood,Phones,196.78
+San Luis Obispo,Fasteners,3.62
+Boise,Accessories,89.97
+Lowell,Appliances,286.86
+Lowell,Supplies,4.36
+Hampton,Paper,20.12
+Burlington,Bookcases,4404.9
+Springdale,Art,4.3
+Hialeah,Bookcases,339.92
+Paterson,Storage,62.18
+Lodi,Supplies,97.3
+Raleigh,Chairs,194.85
+East Orange,Paper,115.44
+East Orange,Art,34.65
+East Orange,Binders,79.95
+Saint Petersburg,Storage,516.96
+Saint Petersburg,Art,4.45
+Saint Petersburg,Labels,9.0
+Charlotte,Chairs,242.35
+Beaumont,Furnishings,8.62
+Long Beach,Copiers,479.98
+Lodi,Art,39.68
+Richmond,Fasteners,2.52
+Mason,Furnishings,68.7
+Mason,Binders,12.78
+Parma,Envelopes,63.97
+Woodstock,Accessories,272.61
+Lafayette,Fasteners,5.94
+Utica,Accessories,79.99
+Santa Barbara,Chairs,362.14
+Santa Barbara,Labels,31.05
+Bryan,Chairs,528.43
+San Bernardino,Bookcases,683.33
+Niagara Falls,Phones,164.85
+Indianapolis,Chairs,1925.88
+New Rochelle,Paper,135.13
+New Rochelle,Supplies,7.3
+Plainfield,Binders,388.09
+Grand Rapids,Phones,97.98
+Athens,Accessories,79.99
+Costa Mesa,Phones,258.58
+Costa Mesa,Paper,29.6
