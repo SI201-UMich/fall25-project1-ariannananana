@@ -1,0 +1,532 @@
+City,Median Sales
+Henderson,61.0
+Los Angeles,69.46
+Fort Lauderdale,116.76
+Concord,99.59
+Seattle,65.64
+Fort Worth,24.59
+Madison,119.59
+West Jordan,66.69
+San Francisco,49.16
+Fremont,57.12
+Philadelphia,40.78
+Orem,59.81
+Houston,37.84
+Richardson,644.23
+Naperville,79.48
+Melbourne,95.62
+Eagan,23.62
+Westland,43.92
+Dover,35.88
+New Albany,56.7
+New York City,61.44
+Troy,40.2
+Chicago,28.48
+Gilbert,82.37
+Springfield,62.1
+Jackson,59.61
+Memphis,48.66
+Decatur,44.95
+Durham,61.57
+Columbia,67.14
+Rochester,32.67
+Minneapolis,67.15
+Portland,131.26
+Saint Paul,96.41
+Aurora,73.87
+Charlotte,67.94
+Orland Park,339.96
+Urbandale,45.92
+Columbus,50.97
+Bristol,70.56
+Wilmington,45.57
+Bloomington,41.55
+Phoenix,46.87
+Roseville,32.33
+Independence,1208.68
+Pasadena,52.68
+Newark,83.92
+Franklin,106.05
+Scottsdale,110.3
+San Jose,91.86
+Edmond,479.77
+Carlsbad,18.45
+San Antonio,99.92
+Monroe,56.3
+Fairfield,43.8
+Grand Prairie,28.75
+Redlands,32.65
+Hamilton,65.66
+Westfield,49.3
+Akron,25.56
+Denver,98.23
+Dallas,35.18
+Whittier,444.77
+Saginaw,68.11
+Medina,62.98
+Dublin,25.54
+Detroit,123.86
+Tampa,45.59
+Santa Clara,24.46
+Lakeville,47.18
+San Diego,83.33
+Brentwood,75.94
+Chapel Hill,14.02
+Morristown,74.45
+Cincinnati,30.96
+Inglewood,122.59
+Tamarac,224.29
+Colorado Springs,52.42
+Belleville,67.25
+Taylor,41.9
+Lakewood,45.48
+Arlington,46.75
+Arvada,15.18
+Hackensack,150.66
+Saint Petersburg,37.11
+Long Beach,55.6
+Hesperia,338.24
+Murfreesboro,14.35
+Layton,4.96
+Austin,47.98
+Lowell,87.72
+Manchester,104.79
+Harlingen,53.42
+Tucson,95.99
+Quincy,28.22
+Pembroke Pines,54.22
+Des Moines,40.46
+Peoria,36.29
+Las Vegas,64.9
+Warwick,111.96
+Miami,37.61
+Huntington Beach,11.67
+Richmond,44.83
+Louisville,89.99
+Lawrence,42.97
+Canton,287.92
+New Rochelle,60.72
+Gastonia,240.77
+Jacksonville,36.11
+Auburn,29.25
+Norman,675.67
+Park Ridge,254.74
+Amarillo,142.42
+Lindenhurst,55.48
+Huntsville,75.04
+Fayetteville,44.78
+Costa Mesa,119.62
+Parker,27.71
+Atlanta,67.8
+Gladstone,82.17
+Great Falls,96.33
+Lakeland,58.36
+Montgomery,187.22
+Mesa,81.65
+Green Bay,20.84
+Anaheim,122.69
+Marysville,51.09
+Salem,27.87
+Laredo,15.87
+Grove City,61.79
+Dearborn,301.96
+Warner Robins,217.4
+Vallejo,23.34
+Mission Viejo,120.0
+Rochester Hills,132.52
+Plainfield,41.95
+Sierra Vista,30.14
+Vancouver,44.02
+Cleveland,58.14
+Tyler,51.18
+Burlington,99.98
+Waynesboro,144.1
+Chester,45.62
+Cary,36.73
+Palm Coast,19.52
+Mount Vernon,171.81
+Hialeah,31.98
+Oceanside,37.21
+Evanston,150.92
+Trenton,58.05
+Cottage Grove,72.18
+Bossier City,90.43
+Lancaster,50.41
+Asheville,16.27
+Lake Elsinore,283.92
+Omaha,32.23
+Edmonds,54.04
+Santa Ana,100.13
+Milwaukee,92.52
+Florence,79.96
+Lorain,48.9
+Linden,115.36
+Salinas,34.34
+New Brunswick,7.38
+Garland,14.39
+Norwich,16.77
+Alexandria,27.02
+Toledo,30.77
+Farmington,159.99
+Riverside,18.02
+Torrance,742.74
+Round Rock,78.85
+Boca Raton,18.46
+Virginia Beach,144.42
+Murrieta,484.65
+Olympia,155.25
+Washington,35.8
+Jefferson City,86.62
+Saint Peters,697.16
+Rockford,128.74
+Brownsville,237.1
+Yonkers,59.52
+Oakland,88.49
+Clinton,79.36
+Encinitas,119.83
+Roswell,104.13
+Jonesboro,59.98
+Antioch,19.44
+Homestead,44.38
+La Porte,29.13
+Lansing,47.36
+Cuyahoga Falls,8.35
+Reno,82.24
+Harrisonburg,122.48
+Escondido,23.36
+Royal Oak,17.67
+Rockville,90.48
+Coral Springs,20.19
+Buffalo,177.43
+Boynton Beach,26.49
+Gulfport,48.69
+Fresno,79.91
+Greenville,68.11
+Macon,48.8
+Cedar Rapids,278.4
+Providence,110.98
+Pueblo,21.53
+Deltona,107.98
+Murray,71.93
+Middletown,48.16
+Freeport,46.53
+Pico Rivera,145.9
+Provo,34.99
+Pleasant Grove,158.9
+Smyrna,74.09
+Parma,87.03
+Mobile,70.98
+New Bedford,23.18
+Irving,38.93
+Vineland,34.67
+Glendale,42.98
+Niagara Falls,17.71
+Thomasville,52.14
+Westminster,55.76
+Coppell,14.95
+Pomona,99.98
+North Las Vegas,96.18
+Allentown,21.73
+Tempe,12.77
+Laguna Niguel,37.02
+Bridgeton,26.21
+Everett,121.25
+Watertown,144.0
+Appleton,835.65
+Bellevue,17.61
+Allen,18.71
+El Paso,47.52
+Grapevine,20.76
+Carrollton,19.57
+Kent,71.98
+Lafayette,81.4
+Tigard,47.7
+Skokie,30.02
+Plano,95.99
+Suffolk,72.43
+Indianapolis,125.88
+Bayonne,63.96
+Greensboro,32.78
+Baltimore,74.0
+Kenosha,399.95
+Olathe,107.94
+Tulsa,63.81
+Redmond,31.32
+Raleigh,48.38
+Muskogee,137.61
+Meriden,21.4
+Bowling Green,113.16
+South Bend,102.28
+Spokane,149.73
+Keller,6.0
+Port Orange,7.82
+Medford,23.78
+Charlottesville,51.3
+Missoula,487.98
+Apopka,27.02
+Reading,23.97
+Broomfield,33.49
+Paterson,65.84
+Oklahoma City,121.6
+Chesapeake,153.28
+Lubbock,18.26
+Johnson City,24.18
+San Bernardino,33.36
+Leominster,18.73
+Bozeman,21.83
+Perth Amboy,164.54
+Ontario,283.92
+Rancho Cucamonga,36.58
+Moorhead,271.93
+Mesquite,5.54
+Stockton,127.86
+Ormond Beach,2.81
+Sunnyvale,97.17
+York,65.58
+College Station,29.31
+Saint Louis,52.59
+Manteca,122.35
+San Angelo,166.84
+Salt Lake City,65.86
+Knoxville,32.35
+Little Rock,60.99
+Lincoln Park,167.29
+Marion,67.3
+Littleton,72.29
+Bangor,255.42
+Southaven,234.36
+New Castle,42.3
+Midland,36.63
+Sioux Falls,43.0
+Fort Collins,47.98
+Clarksville,69.22
+Sacramento,31.98
+Thousand Oaks,22.72
+Malden,39.68
+Holyoke,301.96
+Albuquerque,104.53
+Sparks,86.2
+Coachella,81.78
+Elmhurst,123.92
+Passaic,216.13
+North Charleston,142.12
+Newport News,50.95
+Jamestown,2354.39
+Mishawaka,388.12
+La Quinta,46.32
+Tallahassee,62.19
+Nashville,64.78
+Bellingham,1099.5
+Woodstock,14.04
+Haltom City,27.37
+Wheeling,121.54
+Summerville,203.47
+Hot Springs,29.99
+Englewood,62.03
+Las Cruces,41.37
+Hoover,20.73
+Frisco,28.75
+Vacaville,423.28
+Waukesha,54.5
+Bakersfield,44.14
+Pompano Beach,23.68
+Corpus Christi,13.21
+Redondo Beach,57.08
+Orlando,39.72
+Orange,26.69
+Lake Charles,51.96
+Highland Park,153.58
+Hempstead,41.4
+Noblesville,199.84
+Apple Valley,43.18
+Mount Pleasant,281.54
+Sterling Heights,19.0
+Eau Claire,217.77
+Pharr,395.4
+Billings,8.29
+Gresham,195.14
+Chattanooga,93.73
+Meridian,39.95
+Bolingbrook,11.2
+Maple Grove,64.47
+Woodland,20.93
+Missouri City,6.37
+Pearland,13.39
+San Mateo,75.18
+Grand Rapids,54.9
+Visalia,24.56
+Overland Park,31.37
+Temecula,142.54
+Yucaipa,50.8
+Revere,61.96
+Conroe,111.67
+Tinley Park,22.29
+Dubuque,263.96
+Dearborn Heights,70.09
+Santa Fe,50.46
+Hickory,20.38
+Carol Stream,382.12
+Saint Cloud,603.92
+North Miami,11.06
+Plantation,30.88
+Port Saint Lucie,14.34
+Rock Hill,11.85
+Odessa,42.78
+West Allis,125.24
+Chula Vista,192.8
+Manhattan,273.96
+Altoona,10.23
+Thornton,20.05
+Champaign,151.96
+Texarkana,327.12
+Edinburg,2.37
+Baytown,10.37
+Greenwood,117.87
+Woonsocket,48.62
+Superior,47.4
+Bedford,20.96
+Covington,73.45
+Broken Arrow,11.88
+Miramar,150.71
+Hollywood,15.57
+Deer Park,6.92
+Wichita,81.96
+Mcallen,13.34
+Iowa City,9.99
+Boise,197.37
+Cranston,46.34
+Port Arthur,17.69
+Citrus Heights,129.39
+The Colony,59.75
+Daytona Beach,39.1
+Bullhead City,11.14
+Portage,16.28
+Fargo,25.9
+Elkhart,85.72
+San Gabriel,303.25
+Margate,15.55
+Sandy Springs,25.99
+Mentor,42.47
+Lawton,291.03
+Hampton,186.54
+Rome,64.98
+La Crosse,68.64
+Lewiston,19.71
+Hattiesburg,185.58
+Danville,43.37
+Logan,62.05
+Waterbury,59.98
+Athens,117.44
+Avondale,35.6
+Marietta,182.67
+Yuma,115.19
+Wausau,29.61
+Pasco,352.32
+Oak Park,273.96
+Pensacola,2.21
+League City,44.72
+Gaithersburg,202.96
+Lehi,758.36
+Tuscaloosa,87.85
+Moreno Valley,39.47
+Georgetown,121.93
+Loveland,5.5
+Chandler,49.79
+Helena,63.98
+Kirkwood,120.67
+Waco,15.54
+Frankfort,48.82
+Bethlehem,99.37
+Grand Island,15.96
+Woodbury,39.9
+Rogers,40.41
+Clovis,55.71
+Jupiter,2.06
+Santa Barbara,193.92
+Cedar Hill,61.19
+Norfolk,17.43
+Draper,111.93
+Ann Arbor,57.96
+La Mesa,183.77
+Pocatello,140.38
+Holland,20.44
+Milford,41.27
+Buffalo Grove,415.7
+Lake Forest,76.37
+Redding,333.58
+Chico,36.44
+Utica,60.23
+Conway,301.96
+Cheyenne,1603.14
+Owensboro,35.59
+Caldwell,91.36
+Kenner,44.66
+Nashua,17.97
+Bartlett,88.96
+Redwood City,41.9
+Lebanon,163.96
+Santa Maria,115.44
+Des Plaines,336.91
+Longview,24.85
+Hendersonville,12.26
+Waterloo,30.32
+Cambridge,43.33
+Palatine,116.31
+Beverly,704.25
+Eugene,76.37
+Oxnard,47.9
+Renton,150.8
+Glenview,158.38
+Delray Beach,47.92
+Commerce City,146.35
+Texas City,199.3
+Wilson,31.13
+Rio Rancho,557.1
+Goldsboro,34.94
+Montebello,27.88
+El Cajon,432.81
+Beaumont,12.77
+West Palm Beach,55.98
+Abilene,1.39
+Normal,366.74
+Saint Charles,55.83
+Camarillo,122.91
+Hillsboro,15.32
+Burbank,1279.97
+Modesto,111.79
+Garden City,9.54
+Atlantic City,23.36
+Longmont,266.35
+Davis,32.4
+Morgan Hill,127.19
+Clifton,168.41
+Sheboygan,20.09
+East Point,75.0
+Rapid City,76.32
+Andover,34.87
+Kissimmee,751.98
+Shelton,36.66
+Danbury,27.46
+Sanford,112.77
+San Marcos,15.58
+Greeley,15.18
+Mansfield,279.44
+Elyria,1.82
+Twin Falls,574.4
+Coral Gables,32.12
+Romeoville,8.95
+Marlborough,103.32
+Laurel,76.3
+Bryan,14.96
+Pine Bluff,106.45
+Aberdeen,25.5
+Hagerstown,43.8
+East Orange,34.65
+Arlington Heights,14.11
+Oswego,13.16
+Coon Rapids,251.56
+San Clemente,45.03
+San Luis Obispo,3.62
+Springdale,4.3
+Lodi,68.49
+Mason,22.43
