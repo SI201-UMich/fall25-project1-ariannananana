@@ -1,0 +1,26 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Second Class,Home Office,United States,Chicago,Illinois,60653,Central,Furniture,Chairs,569.058,3,0.3,-178.8468
+Second Class,Corporate,United States,Los Angeles,California,90032,West,Office Supplies,Storage,449.15,5,0.0,8.983
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,2003.92,5,0.2,-25.049
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,Furniture,Chairs,127.386,2,0.3,-25.4772
+Second Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,5.56,2,0.0,2.224
+Standard Class,Corporate,United States,Columbia,Tennessee,38401,South,Technology,Accessories,18.528,2,0.2,4.4004
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Supplies,5.552,2,0.2,-1.041
+Second Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,371.97,3,0.0,66.9546
+Second Class,Consumer,United States,Chicago,Illinois,60610,Central,Technology,Phones,537.544,7,0.2,53.7544
+Standard Class,Consumer,United States,Bullhead City,Arizona,86442,West,Furniture,Furnishings,14.368,2,0.2,3.9512
+First Class,Home Office,United States,Hialeah,Florida,33012,South,Office Supplies,Storage,61.68,5,0.2,5.397
+Standard Class,Consumer,United States,Akron,Ohio,44312,East,Technology,Accessories,71.976,3,0.2,0.8997
+Second Class,Corporate,United States,Chicago,Illinois,60653,Central,Office Supplies,Paper,173.488,7,0.2,54.215
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,Office Supplies,Storage,83.25,3,0.0,14.985
+Standard Class,Home Office,United States,Roseville,Minnesota,55113,Central,Furniture,Furnishings,29.22,3,0.0,12.8568
+Standard Class,Home Office,United States,Cambridge,Massachusetts,2138,East,Furniture,Furnishings,26.72,1,0.0,11.7568
+Same Day,Corporate,United States,Los Angeles,California,90004,West,Furniture,Chairs,362.352,3,0.2,27.1764
+Standard Class,Consumer,United States,Chesapeake,Virginia,23320,South,Technology,Accessories,234.45,3,0.0,103.158
+Standard Class,Corporate,United States,Toledo,Ohio,43615,East,Technology,Phones,107.118,3,0.4,-21.4236
+Standard Class,Corporate,United States,Alexandria,Virginia,22304,South,Furniture,Furnishings,192.22,14,0.0,69.1992
+Second Class,Home Office,United States,Los Angeles,California,90004,West,Furniture,Tables,896.328,9,0.2,22.4082
+Standard Class,Home Office,United States,Chicago,Illinois,60653,Central,Technology,Accessories,227.976,3,0.2,28.497
+Same Day,Home Office,United States,New York City,New York,10024,East,Technology,Copiers,799.984,2,0.2,249.995
+Standard Class,Corporate,United States,Charlotte,North Carolina,28205,South,Office Supplies,Art,10.272,3,0.2,0.8988
+Second Class,Corporate,United States,Los Angeles,California,90049,West,Technology,Phones,110.352,3,0.2,8.2764

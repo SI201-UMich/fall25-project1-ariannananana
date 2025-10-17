@@ -35,39 +35,113 @@ def read_csv_file(filename):
 
 
 
+
+
 def calculate_median_sales_by_segment(data):
-   
+    
     if not data:
         return {}
 
+    
     segment_sales = {}
-    for row in data:
-        seg = row.get('Segment')
-        subcat = row.get('Sub-Category')
-        sale = row.get('Sales', 0)
-        if seg and subcat:
-            key = (seg, subcat)
-            segment_sales.setdefault(key, []).append(sale)
 
-    return {key: statistics.median(sales) for key, sales in segment_sales.items()}
+    
+    for row in data:
+        segment = row.get('Segment', '')
+        subcategory = row.get('Sub-Category', '')
+        sale = row.get('Sales', 0)
+
+        
+        if segment and subcategory:
+            key = (segment, subcategory)
+
+            
+            if key not in segment_sales:
+                segment_sales[key] = []
+
+            
+            segment_sales[key].append(sale)
+
+    
+    median_sales = {}
+
+   
+    for key in segment_sales:
+        sales_list = segment_sales[key]
+
+        
+        sales_list.sort()
+
+        n = len(sales_list)
+        middle = n // 2
+
+        
+        if n % 2 == 1:
+            median = sales_list[middle]
+        else:
+           
+            median = (sales_list[middle - 1] + sales_list[middle]) / 2
+
+        
+        median_sales[key] = median
+
+    return median_sales
+
+
 
 
 
 def calculate_median_sales_by_city(data):
-   
+    
     if not data:
         return {}
 
+    
     city_sales = {}
+
+    
     for row in data:
         city = row.get('City')
-        subcat = row.get('Sub-Category')
+        subcategory = row.get('Sub-Category')
         sale = row.get('Sales', 0)
-        if city and subcat:
-            key = (city, subcat)
-            city_sales.setdefault(key, []).append(sale)
 
-    return {key: statistics.median(sales) for key, sales in city_sales.items()}
+        
+        if city and subcategory:
+            key = (city, subcategory)
+
+            
+            if key not in city_sales:
+                city_sales[key] = []
+
+            
+            city_sales[key].append(sale)
+
+    
+    median_sales = {}
+
+    
+    for key in city_sales:
+        sales_list = city_sales[key]
+
+       
+        sales_list.sort()
+
+        n = len(sales_list)
+        middle = n // 2
+
+        
+        if n % 2 == 1:
+            median = sales_list[middle]
+        else:
+            
+            median = (sales_list[middle - 1] + sales_list[middle]) / 2
+
+       
+        median_sales[key] = median
+
+    
+    return median_sales
+
 
 
 
@@ -99,20 +173,14 @@ def main():
 class TestCalculations(unittest.TestCase):
 
     def setUp(self):
-        self.sample_data = [
-            {"Segment": "Consumer", "City": "New York", "Sub-Category": "Phones", "Sales": 100.0},
-            {"Segment": "Corporate", "City": "Boston", "Sub-Category": "Binders", "Sales": 200.0},
-            {"Segment": "Consumer", "City": "New York", "Sub-Category": "Phones", "Sales": 300.0},
-            {"Segment": "Home Office", "City": "Chicago", "Sub-Category": "Chairs", "Sales": 400.0},
-            {"Segment": "Corporate", "City": "Boston", "Sub-Category": "Binders", "Sales": 600.0},
-        ]
-
+        self.sample_data = read_csv_file('test.csv')
+            
 
 
     def test_segment_general_case(self):
         result = calculate_median_sales_by_segment(self.sample_data)
-        self.assertEqual(result[("Consumer", "Phones")], 200.0)
-        self.assertEqual(result[("Corporate", "Binders")], 400.0)
+        self.assertEqual(result[("Consumer", "Phones")], 537.544)
+        self.assertEqual(result[("Corporate", "Storage")],266.2 )
 
     def test_segment_empty(self):
         result = calculate_median_sales_by_segment([])
@@ -132,8 +200,9 @@ class TestCalculations(unittest.TestCase):
 
     def test_city_general_case(self):
         result = calculate_median_sales_by_city(self.sample_data)
-        self.assertEqual(result[("Boston", "Binders")], 400.0)
-        self.assertEqual(result[("New York", "Phones")], 200.0)
+        self.assertEqual(result[("Los Angeles", "Tables")], 896.328)
+        self.assertEqual(result[("New York City", "Bookcases")], 2003.92)
+        
 
     def test_city_empty(self):
         result = calculate_median_sales_by_city([])
@@ -158,4 +227,4 @@ if __name__ == "__main__":
     main()
 
     # Option 2: Run unit tests
-    #unittest.main()
+    unittest.main(verbosity=2)
