@@ -16,7 +16,7 @@ Functions Created By:
 """
 
 import csv
-import statistics
+
 import unittest
 
 
@@ -224,7 +224,7 @@ if __name__ == "__main__":
     # Uncomment ONE of these lines at a time:
 
     # Option 1: Run your main project
-    main()
+    #main()
 
     # Option 2: Run unit tests
     unittest.main(verbosity=2)
